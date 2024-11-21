@@ -71,6 +71,7 @@ extra_css:
 
 plugins:
   - search
+  - mkdocs-video
   - exclude-search:
       exclude:
         - /*/index.md
