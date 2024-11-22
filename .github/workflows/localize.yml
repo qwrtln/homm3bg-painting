@@ -55,7 +55,7 @@ jobs:
         run: |
           echo "${{ matrix.language }}.$(cat docs/CNAME)" > docs/CNAME
 
-      - name: Publish ${{ matrix.language }} site
+      - name: Push ${{ matrix.language }} site
         uses: peaceiris/actions-gh-pages@v4
         with:
           deploy_key: ${{ secrets.SSH_DEPLOY_KEY_PL }}
@@ -63,3 +63,13 @@ jobs:
           full_commit_message: ${{ github.event.head_commit.message }}
           publish_branch: main
           publish_dir: ./
+
+      - name: Push .github dir
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.SSH_DEPLOY_KEY_PL }}
+          external_repository: qwrtln/homm3bg-painting.${{ matrix.language }} 
+          full_commit_message: "Include .github dir"
+          publish_branch: main
+          publish_dir: .github
+
