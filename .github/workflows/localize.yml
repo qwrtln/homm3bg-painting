@@ -56,7 +56,7 @@ jobs:
       - name: Create dir for publishing
         run: |
           mkdir -p ${{ matrix.language }}/.github/workflows
-          cp .github/workflows/publish_docs.yml ${{ matrix.language }}/.github/workflows
+          cp .github/workflows/publish-docs.yml ${{ matrix.language }}/.github/workflows
           cp -r docs mkdocs.yml ${{ matrix.language }}
 
       - name: Push ${{ matrix.language }} site
