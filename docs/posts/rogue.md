@@ -1,3 +1,6 @@
+---
+date: 2024-11-17 
+---
 # Rogue
 
 ![Rogue front](../assets/rogue_front.jpeg)

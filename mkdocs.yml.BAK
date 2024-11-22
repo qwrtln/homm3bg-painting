@@ -1,0 +1,96 @@
+site_name: "Heroes of Might and Magic 3: Painting Minis"
+site_url: https://paint-h3.qwrtln.nl
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+theme:
+  name: material
+  # custom_dir: overrides
+  # logo: assets/game_logo.png
+  features:
+    - content.code.copy
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - toc.follow
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: yellow
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  font:
+    text: Vollkorn
+  icon:
+    repo: fontawesome/brands/git-alt
+
+extra_css:
+  - docs/stylesheets/extra.css
+
+# extra_javascript:
+#   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+#   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.number.js
+#   - javascripts/tablesort.js
+
+plugins:
+  - blog:
+      blog_dir: .
+      blog_toc: false
+  - search
+  # - exclude-search:
+  #     exclude:
+  #       - /*/index.md
+  # - i18n:
+  #     docs_structure: suffix
+  #     fallback_to_default: true
+  #     reconfigure_material: true
+  #     reconfigure_search: true
+  #     languages:
+  #       - locale: en
+  #         default: true
+  #         name: English
+  #         build: true
+  #       - locale: pl
+  #         name: Polski
+  #         build: true
+  #       - locale: ru
+  #         name: Русский
+  #         build: true
