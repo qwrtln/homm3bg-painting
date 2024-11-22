@@ -20,7 +20,7 @@ msgstr ""
 #: docs/contact.md docs/contact.ru.md
 #, no-wrap
 msgid "Contact"
-msgstr ""
+msgstr "Контакт"
 
 #. type: Plain text
 #: docs/contact.md
