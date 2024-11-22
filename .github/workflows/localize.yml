@@ -10,12 +10,14 @@ env:
 jobs:
   localize:
     runs-on: ubuntu-latest
+    outputs:
+      deploy_key: ${{ steps.key.outputs.deploy_key }}
     strategy:
       fail-fast: false
       matrix:
         include:
           - language: pl
-            deploy_key: ${{ secrets.SSH_DEPLOY_KEY_PL }}
+
     steps:
       - uses: actions/checkout@v4
 
@@ -51,10 +53,19 @@ jobs:
         run: |
           echo "${{ matrix.language }}.$(cat docs/CNAME)" > docs/CNAME
 
+      - name: Set deploy key
+        id: key
+        run: |
+          if [[ ${{ matrix.language }} == "pl" ]]; then
+            echo "DEPLOY_KEY=${{ secrets.SSH_DEPLOY_KEY_PL }}" >> $GITHUB_OUTPUT
+          elif [[ ${{ matrix.language }} == "ru" ]]; then
+            echo "привет"
+          fi
+
       - name: Publish ${{ matrix.language }} site
         uses: peaceiris/actions-gh-pages@v4
         with:
-          deploy_key: ${{ matrix.deploy_key }}
+          deploy_key: ${{ steps.key.outputs.DEPLOY_KEY }}
           external_repository: qwrtln/homm3bg-painting.${{ matrix.language }} 
           publish_branch: main
           publish_dir: ./
