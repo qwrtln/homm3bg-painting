@@ -3,9 +3,9 @@ site_name: Painting minis of Heroes of Might and Magic III
 site_url: https://paint-h3.qwrtln.nl/
 site_dir: gh_pages
 docs_dir: docs
+
 theme:
   name: material
-  # custom_dir: overrides
   favicon: null
   logo: assets/palette.png
   palette:
@@ -29,9 +29,7 @@ theme:
     - content.code.copy
     - content.tabs.link
     - navigation.footer
-    # - navigation.indexes
     - navigation.tabs
-    # - navigation.top
     - search.highlight
     - search.share
     - search.suggest
