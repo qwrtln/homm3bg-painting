@@ -36,9 +36,9 @@ msgstr ""
 #. type: Plain text
 #: docs/index.md
 msgid "I'm an experienced devops engineer.  Heroes of Might and Magic III has always been one of my favourite games.  That's why when a board game crowdfunding was announced, I backed it in a heartbeat.  I helped create some of the community-made projects, like [Rule Book Rewrite](https://github.com/Heegu-sama/Homm3BG), [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book), and the [game wiki](https://homm3bg.wiki/)."
-msgstr "Тыж программист"
+msgstr "Опытный инженер DevOps. Heroes of Might and Magic III всегда была одной из моих любимых игр. Поэтому, когда было объявлено о краудфандинге на настольную игру, я поддержал проект без колебаний. Я помог создать несколько проектов, сделанных сообществом, таких как [переработанная книга правил](https://github.com/Heegu-sama/Homm3BG), [Фанатская книга миссий](https://github.com/qwrtln/Homm3BG-mission-book) и [вики игры](https://homm3bg.wiki/)."
 
 #. type: Plain text
 #: docs/index.md
 msgid "Since the game came with 100+ minis, I decided to take on a new hobby and paint them.  On this website I'll be sharing the result of my work."
-msgstr "Защитник планеты"
+msgstr "Так как в игре было более 100 миниатюр, я решил заняться новым хобби и их раскрасить. На этом сайте я буду делиться результатами своей работы."

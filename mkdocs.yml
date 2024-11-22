@@ -36,6 +36,18 @@ theme:
     - search.suggest
     - toc.follow
 
+extra:
+  alternate:
+    - name: English
+      link: https://paint-h3.qwrtln.nl/
+      lang: en
+    - name: Polski
+      link: https://pl.paint-h3.qwrtln.nl/
+      lang: pl
+    - name: Русский
+      link: https://ru.paint-h3.qwrtln.nl/
+      lang: ru
+
 plugins:
   - blog:
       blog_dir: .
