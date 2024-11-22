@@ -60,5 +60,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.SSH_DEPLOY_KEY_PL }}
           external_repository: qwrtln/homm3bg-painting.${{ matrix.language }} 
+          full_commit_message: ${{ github.event.head_commit.message }}
           publish_branch: main
           publish_dir: ./
