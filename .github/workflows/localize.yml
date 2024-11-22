@@ -64,6 +64,9 @@ jobs:
           publish_branch: main
           publish_dir: ./
 
+      - name: Restart SSH agent
+        run: killall ssh-agent
+
       - name: Push .github dir
         uses: peaceiris/actions-gh-pages@v4
         with:
