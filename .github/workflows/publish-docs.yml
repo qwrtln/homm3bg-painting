@@ -31,7 +31,6 @@ jobs:
             mkdocs-material-
 
       - run: pip install mkdocs-material \
-               mkdocs-exclude-search \
-               mkdocs-static-i18n
+               mkdocs-exclude-search
 
       - run: mkdocs gh-deploy --force

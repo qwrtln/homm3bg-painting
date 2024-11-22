@@ -20,9 +20,9 @@ msgstr ""
 #: docs/contact.md
 #, no-wrap
 msgid "Contact"
-msgstr ""
+msgstr "Kontakt"
 
 #. type: Plain text
 #: docs/contact.md
 msgid "You can reachme on the [Heroes 3 Community Discord server](https://discord.gg/nMbawQkj9R)."
-msgstr "Znajdziesz mnie na [Discordzie Heroes 3 Community](https://discord.gg/nMbawQkj9R)."
+msgstr "Znajdziesz mnie na [Discordzie społeczności Heroes 3 Board Game](https://discord.gg/nMbawQkj9R)."

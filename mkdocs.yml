@@ -7,7 +7,7 @@ docs_dir: docs
 theme:
   name: material
   favicon: null
-  language: en
+  language: pl
   logo: assets/palette.png
   palette:
     - media: "(prefers-color-scheme: light)"
