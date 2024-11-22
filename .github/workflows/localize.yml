@@ -68,3 +68,4 @@ jobs:
           publish_branch: main
           force_orphan: true
           publish_dir: ${{ matrix.language }}
+          exclude_assets: ''
