@@ -41,6 +41,8 @@ jobs:
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           export PERL5LIB="${PO4A_DIR}/lib:${PERL5LIB}"
           ./${PO4A_DIR}/po4a --no-update po4a.cfg
+          rm -rf ${PO4A_DIR}
+          rm  ${PO4A_DIR}.tar.gz
 
       - name: Replace files with localized ones
         run: |
@@ -60,4 +62,3 @@ jobs:
           external_repository: qwrtln/homm3bg-painting.${{ matrix.language }} 
           publish_branch: main
           publish_dir: ./
-          force_orphan: true
