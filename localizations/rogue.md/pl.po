@@ -20,7 +20,7 @@ msgstr ""
 #: docs/posts/rogue.md
 #, no-wrap
 msgid "Rogue"
-msgstr ""
+msgstr "Rozbójnik"
 
 #. type: Plain text
 #: docs/posts/rogue.md

@@ -3,7 +3,6 @@ hide:
   - navigation
   - title
 ---
-
 ![qwrtln](assets/photo.jpeg){ class=crop-left-mug }
 
 I'm an experienced devops engineer.
