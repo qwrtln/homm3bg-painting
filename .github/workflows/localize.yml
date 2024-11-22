@@ -15,6 +15,9 @@ jobs:
       matrix:
         include:
           - language: pl
+            secret_name: SSH_DEPLOY_KEY_PL
+          - language: ru
+            secret_name: SSH_DEPLOY_KEY_RU
 
     steps:
       - uses: actions/checkout@v4
@@ -62,7 +65,7 @@ jobs:
       - name: Push ${{ matrix.language }} site
         uses: peaceiris/actions-gh-pages@v4
         with:
-          deploy_key: ${{ secrets.SSH_DEPLOY_KEY_PL }}
+          deploy_key: ${{ secrets[matrix.secret_name] }}
           external_repository: qwrtln/homm3bg-painting.${{ matrix.language }} 
           full_commit_message: ${{ github.event.head_commit.message }}
           publish_branch: main
