@@ -10,8 +10,6 @@ env:
 jobs:
   localize:
     runs-on: ubuntu-latest
-    outputs:
-      deploy_key: ${{ steps.key.outputs.deploy_key }}
     strategy:
       fail-fast: false
       matrix:
@@ -57,8 +55,9 @@ jobs:
 
       - name: Create dir for publishing
         run: |
-          mkdir ${{ matrix.language }}
-          cp -r .github data mkdocs.yml ${{ matrix.language }}
+          mkdir -p ${{ matrix.language }}/.github/workflows
+          cp .github/workflows/publish_docs.yml ${{ matrix.language }}/.github/workflows
+          cp -r docs mkdocs.yml ${{ matrix.language }}
 
       - name: Push ${{ matrix.language }} site
         uses: peaceiris/actions-gh-pages@v4
