@@ -22,5 +22,5 @@ Painting time: 7 h
 See Trolls on the [Wiki](https://homm3bg.wiki/units/trolls).
 
 <details><summary>Click to see the unboxing video</summary>
-  <iframe width="1280" height="720" src="https://youtube.com/embed/RCvJ-YIeEgY?start=1972&end=1979&mute=1" frameborder="0" allowfullscreen></iframe>
+  <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/RCvJ-YIeEgY?start=1972&end=1979&mute=1" frameborder="0" allowfullscreen></iframe>
 </details>

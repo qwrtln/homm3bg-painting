@@ -1,5 +1,6 @@
 copyright: Copyright &copy; 2024 qwrtln
-site_name: Painting minis of Heroes of Might and Magic III
+site_name: Painting of Might and Magic III
+site_description: "Painting minis of Heroes of Might and Magic III: The Board Game"
 site_url: https://paint-h3.qwrtln.nl/
 site_dir: gh_pages
 docs_dir: docs
@@ -54,9 +55,19 @@ plugins:
       blog_dir: .
       blog_toc: true
       categories_name: Categories
-      post_url_format: "blog/{date}/{slug}"
+      post_url_format: "posts/{date}/{slug}"
       post_url_date_format: yyyy/MM
       post_readtime_words_per_minute: 200
+  - rss:
+      date_from_meta:
+        as_creation: "date"
+      match_path: "posts/*"
+      pretty_print: true
+      url_parameters:
+        utm_source: "documentation"
+        utm_medium: "RSS"
+        utm_campaign: "feed-syndication"
+      use_git: false
   - search
   - tags
   - privacy

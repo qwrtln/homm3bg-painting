@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-22 23:57+0100\n"
+"POT-Creation-Date: 2024-11-24 23:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,14 +17,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title #
-#: docs/contact.md docs/contact.ru.md
+#: docs/about.md
 #, no-wrap
-msgid "Contact"
+msgid "About"
 msgstr ""
 
 #. type: Plain text
-#: docs/contact.md
+#: docs/about.md
 msgid ""
 "You can reach me on the [Heroes 3 Community Discord server](https://discord."
 "gg/nMbawQkj9R). My username is `qwrtln`."
+msgstr ""
+
+#. type: Plain text
+#: docs/about.md
+msgid ""
+"If you'd like to be notified about new posts, you can subscribe to the [RSS "
+"feed](https://paint-h3.qwrtln.nl/feed_rss_created.xml)."
+msgstr ""
+
+#. type: Plain text
+#: docs/about.md
+msgid ""
+"This website doesn't use any cookies. It was created using [Material for "
+"MkDocs](https://squidfunk.github.io/mkdocs-material/), and is hosted on "
+"[GitHub Pages](https://pages.github.com/)."
 msgstr ""

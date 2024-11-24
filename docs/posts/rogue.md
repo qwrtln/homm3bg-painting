@@ -1,5 +1,5 @@
 ---
-date: 2024-11-17 
+date: 2024-11-17
 tags:
     - Neutrals
     - Metallics
@@ -22,5 +22,5 @@ Painting time: 5 h
 See Rogues on the [Wiki](https://homm3bg.wiki/units/rogues).
 
 <details><summary>Click to see the unboxing video</summary>
-  <iframe width="1280" height="720" src="https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1" frameborder="0" allowfullscreen></iframe>
+  <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1" frameborder="0" allowfullscreen></iframe>
 </details>
