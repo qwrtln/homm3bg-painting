@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Painting of Might and Magic III",
+    "home_page_url": "https://paint-h3.qwrtln.nl/",
+    "feed_url": "https://paint-h3.qwrtln.nl/feed_json_updated.json",
+    "description": "Painting minis of Heroes of Might and Magic III: The Board Game",
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2024/11/troll/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Troll",
+            "content_html": "<h1>Troll</h1>\n<p>Here's my second neutral unit.</p>\n<p><img alt=\"Troll front\" src=\"../assets/troll_front.jpg\">\n<img alt=\"Troll back\" src=\"../assets/troll_back.jpg\"></p>\n<p>Green skin is supposedly easier t...</p>",
+            "image": null,
+            "date_modified": "2024-11-24T22:43:39.945875+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2024/11/rogue/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2024/11/rogue/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Rogue",
+            "content_html": "<h1>Rogue</h1>\n<p>I started painting neutral units to gain some experience first.</p>\n<p><img alt=\"Rogue front\" src=\"../assets/rogue_front.jpeg\">\n<img alt=\"Rogue back\" src=\"../assets/rogue_back.jpeg\">...</p>",
+            "image": null,
+            "date_modified": "2024-11-24T22:43:39.941642+00:00",
+            "authors": [],
+            "tags": null
+        }
+    ]
+}

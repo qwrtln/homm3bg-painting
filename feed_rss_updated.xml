@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Painting of Might and Magic III</title>
+    <description>Painting minis of Heroes of Might and Magic III: The Board Game</description>
+    <link>https://paint-h3.qwrtln.nl/</link>
+    <atom:link href="https://paint-h3.qwrtln.nl/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Sun, 24 Nov 2024 22:43:39 -0000</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2024 22:43:39 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.16.0</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>Troll</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Troll&lt;/h1&gt;
+&lt;p&gt;Here&#39;s my second neutral unit.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Troll front&#34; src=&#34;../assets/troll_front.jpg&#34;&gt;
+&lt;img alt=&#34;Troll back&#34; src=&#34;../assets/troll_back.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Green skin is supposedly easier t...&lt;/p&gt;</description>
+      <link>https://paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 24 Nov 2024 22:43:39 +0000</pubDate>
+      <source url="https://paint-h3.qwrtln.nl/feed_rss_updated.xml">Painting of Might and Magic III</source>
+      
+      <guid isPermaLink="true">https://paint-h3.qwrtln.nl/posts/2024/11/troll/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Rogue</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Rogue&lt;/h1&gt;
+&lt;p&gt;I started painting neutral units to gain some experience first.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Rogue front&#34; src=&#34;../assets/rogue_front.jpeg&#34;&gt;
+&lt;img alt=&#34;Rogue back&#34; src=&#34;../assets/rogue_back.jpeg&#34;&gt;...&lt;/p&gt;</description>
+      <link>https://paint-h3.qwrtln.nl/posts/2024/11/rogue/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 24 Nov 2024 22:43:39 +0000</pubDate>
+      <source url="https://paint-h3.qwrtln.nl/feed_rss_updated.xml">Painting of Might and Magic III</source>
+      
+      <guid isPermaLink="true">https://paint-h3.qwrtln.nl/posts/2024/11/rogue/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
