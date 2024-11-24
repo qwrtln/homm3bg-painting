@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-22 14:25+0100\n"
+"POT-Creation-Date: 2024-11-24 01:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,6 +24,11 @@ msgstr ""
 
 #. type: Plain text
 #: docs/posts/rogue.md
+msgid "I started painting neutral units to gain some experience first."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/rogue.md
 msgid ""
 "![Rogue front](../assets/rogue_front.jpeg)  ![Rogue back](../assets/"
 "rogue_back.jpeg)"
@@ -31,21 +36,24 @@ msgstr ""
 
 #. type: Plain text
 #: docs/posts/rogue.md
-msgid "[Wiki](https://homm3bg.wiki/units/rogues)"
+msgid ""
+"My first ever painted Heroes mini.  Overall, very happy with the result.  I "
+"like how the shading and highlhting turned out, especially the cloak, boots, "
+"trousers, and even the face.  That said, you can see beginner's unsteady "
+"hand in the metallic details.  The base ended up a bit too glossy as well — "
+"probably from overusing the wash."
 msgstr ""
 
 #. type: Plain text
 #: docs/posts/rogue.md
-#, no-wrap
-msgid "<!-- [Unboxing](https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1&autoplay=1&cc_load_policy=3) -->\n"
+msgid "See Rogues on the [Wiki](https://homm3bg.wiki/units/rogues)."
 msgstr ""
 
 #. type: Plain text
 #: docs/posts/rogue.md
 #, no-wrap
 msgid ""
-"<!-- ![type:video](https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1){ height=\"840\" width=\"560\" } -->\n"
-"<div class=\"video-wrapper\">\n"
+"<details><summary>Click to see the unboxing video</summary>\n"
 "  <iframe width=\"1280\" height=\"720\" src=\"https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n"
-"</div>\n"
+"</details>\n"
 msgstr ""

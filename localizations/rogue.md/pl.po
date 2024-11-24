@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-22 14:25+0100\n"
+"POT-Creation-Date: 2024-11-24 01:23+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -24,26 +24,32 @@ msgstr "Rozbójnik"
 
 #. type: Plain text
 #: docs/posts/rogue.md
+msgid "I started painting neutral units to gain some experience first."
+msgstr "Zacząłem od malowania neutralnych jednostek, aby się podszkolić."
+
+#. type: Plain text
+#: docs/posts/rogue.md
 msgid "![Rogue front](../assets/rogue_front.jpeg)  ![Rogue back](../assets/rogue_back.jpeg)"
 msgstr ""
 
 #. type: Plain text
 #: docs/posts/rogue.md
-msgid "[Wiki](https://homm3bg.wiki/units/rogues)"
-msgstr ""
+msgid "My first ever painted Heroes mini.  Overall, very happy with the result.  I like how the shading and highlhting turned out, especially the cloak, boots, trousers, and even the face.  That said, you can see beginner's unsteady hand in the metallic details.  The base ended up a bit too glossy as well — probably from overusing the wash."
+msgstr "Moja pierwsza pomalowana herosowa figurka. Na ogół jestem zadowolony z rezultatu. W szczególności podobają mi się cienie i rozjaśnienia na pelerynie, butach, spodniach, a nawet na twarzy. Widać jednak, że przy metalicznych detalach ręka początkującego jeszcze trochę drży. Podstawka też wyszła zbyt błyszcząca – pewnie przez nadużycie *wash*a."
 
 #. type: Plain text
 #: docs/posts/rogue.md
-#, no-wrap
-msgid "<!-- [Unboxing](https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1&autoplay=1&cc_load_policy=3) -->\n"
-msgstr ""
+msgid "See Rogues on the [Wiki](https://homm3bg.wiki/units/rogues)."
+msgstr "Zobacz Rozbójników na [Wiki](https://homm3bg.wiki/pl/units/rogues)."
 
 #. type: Plain text
 #: docs/posts/rogue.md
 #, no-wrap
 msgid ""
-"<!-- ![type:video](https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1){ height=\"840\" width=\"560\" } -->\n"
-"<div class=\"video-wrapper\">\n"
+"<details><summary>Click to see the unboxing video</summary>\n"
 "  <iframe width=\"1280\" height=\"720\" src=\"https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n"
-"</div>\n"
+"</details>\n"
 msgstr ""
+"<details><summary>Kliknij, aby zobaczyć wideo z rozpakowywania</summary>\n"
+"  <iframe width=\"1280\" height=\"720\" src=\"https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n"
+"</details>\n"

@@ -3,14 +3,19 @@ date: 2024-11-17
 ---
 # Rogue
 
+I started painting neutral units to gain some experience first.
+
 ![Rogue front](../assets/rogue_front.jpeg)
 ![Rogue back](../assets/rogue_back.jpeg)
 
-[Wiki](https://homm3bg.wiki/units/rogues)
+My first ever painted Heroes mini.
+Overall, very happy with the result.
+I like how the shading and highlhting turned out, especially the cloak, boots, trousers, and even the face.
+That said, you can see beginner's unsteady hand in the metallic details.
+The base ended up a bit too glossy as well — probably from overusing the wash.
 
-<!-- [Unboxing](https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1&autoplay=1&cc_load_policy=3) -->
+See Rogues on the [Wiki](https://homm3bg.wiki/units/rogues).
 
-<!-- ![type:video](https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1){ height="840" width="560" } -->
-<div class="video-wrapper">
+<details><summary>Click to see the unboxing video</summary>
   <iframe width="1280" height="720" src="https://youtube.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1" frameborder="0" allowfullscreen></iframe>
-</div>
+</details>
