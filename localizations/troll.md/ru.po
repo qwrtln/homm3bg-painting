@@ -25,7 +25,7 @@ msgstr "Тролль"
 #. type: Plain text
 #: docs/posts/troll.md
 msgid "Here's my second neutral unit."
-msgstr ""
+msgstr "Мой второй нейтральный отряд."
 
 #. type: Plain text
 #: docs/posts/troll.md
@@ -35,7 +35,7 @@ msgstr ""
 #. type: Plain text
 #: docs/posts/troll.md
 msgid "Green skin is supposedly easier to paint than human skin.  Well, that crusty texture was not as straightforward (it involved some wonky dry-brushing).  Nevertheless, those yellow-tinted highlights turned out really well.  This was also my first attempt at painting facial details like eyeballs and teeth.  I'm really glad it worked out on the first try."
-msgstr ""
+msgstr "Зеленую кожу, как говорят, красить легче, чем человеческую. Однако корка на текстуре оказалась не такой простой (для нее понадобился немного кривоватый dry-brushing). Тем не менее желтоватые блики получились очень хорошо. Это также была моя первая попытка покрасить детали лица, такие как глаза и зубы. Очень рад, что все получилось с первого раза."
 
 #. type: Plain text
 #: docs/posts/troll.md
