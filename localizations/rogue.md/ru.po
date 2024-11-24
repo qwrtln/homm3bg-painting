@@ -52,7 +52,7 @@ msgstr "Моя первая покрашенная миниатюра. В цел
 #. type: Plain text
 #: docs/posts/rogue.md
 msgid "Painting time: 5 h"
-msgstr "Время краски: 5 ч"
+msgstr "Время покраски: 5 ч"
 
 #. type: Plain text
 #: docs/posts/rogue.md

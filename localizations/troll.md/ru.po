@@ -52,7 +52,7 @@ msgstr "Зеленую кожу, как говорят, красить легч�
 #. type: Plain text
 #: docs/posts/troll.md
 msgid "Painting time: 7 h"
-msgstr "Время краски: 7 ч"
+msgstr "Время покраски: 7 ч"
 
 #. type: Plain text
 #: docs/posts/troll.md
