@@ -69,13 +69,13 @@ jobs:
         run: |
           mkdir -p ${{ matrix.language }}/.github/workflows
           cp .github/workflows/publish-docs.yml ${{ matrix.language }}/.github/workflows
-          cp -r docs mkdocs.yml ${{ matrix.language }}
+          cp -r overrides docs mkdocs.yml ${{ matrix.language }}
 
       - name: Push ${{ matrix.language }} site
         uses: peaceiris/actions-gh-pages@v4
         with:
           deploy_key: ${{ secrets[matrix.secret_name] }}
-          external_repository: qwrtln/homm3bg-painting.${{ matrix.language }} 
+          external_repository: qwrtln/homm3bg-painting.${{ matrix.language }}
           full_commit_message: ${{ github.event.head_commit.message }}
           publish_branch: main
           force_orphan: true

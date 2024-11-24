@@ -6,6 +6,7 @@ docs_dir: docs
 
 theme:
   name: material
+  custom_dir: overrides
   favicon: null
   language: en
   logo: assets/palette.png
@@ -55,6 +56,7 @@ plugins:
       categories_name: Categories
       post_url_format: "blog/{date}/{slug}"
       post_url_date_format: yyyy/MM
+      post_readtime_words_per_minute: 200
   - search
   - tags
   - privacy
