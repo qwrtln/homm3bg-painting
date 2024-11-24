@@ -37,7 +37,7 @@ msgstr "Разбойник"
 #. type: Plain text
 #: docs/posts/rogue.md
 msgid "I started painting neutral units to gain some experience first."
-msgstr "Я начал красить нейтральные отряды, чтобы сначала набраться опыта."
+msgstr "Я начал покрывать краской минятюры нейтральных юнитов, чтобы сначала набраться опыта."
 
 #. type: Plain text
 #: docs/posts/rogue.md

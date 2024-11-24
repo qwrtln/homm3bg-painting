@@ -37,7 +37,7 @@ msgstr "Тролль"
 #. type: Plain text
 #: docs/posts/troll.md
 msgid "Here's my second neutral unit."
-msgstr "Мой второй нейтральный отряд."
+msgstr "Мой второй нейтральный юнит."
 
 #. type: Plain text
 #: docs/posts/troll.md

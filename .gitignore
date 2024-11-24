@@ -1,4 +1,5 @@
 .venv
+.cache
 docs/**/*.pl.md
 docs/**/*.ru.md
 docs/**/pl/*
