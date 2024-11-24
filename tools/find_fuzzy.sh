@@ -2,7 +2,4 @@
 
 LANGUAGE=$1
 
-for f in $(find translations -name ${LANGUAGE}.po)
-do
-  grep --color -nHA3 fuzzy $f
-done
+find localizations -name "${LANGUAGE}.po" -exec grep --color -nHA3 fuzzy {} \;

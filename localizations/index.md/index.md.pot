@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-22 14:25+0100\n"
+"POT-Creation-Date: 2024-11-24 17:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,12 +36,12 @@ msgstr ""
 #. type: Plain text
 #: docs/index.md
 msgid ""
-"I'm an experienced devops engineer.  Heroes of Might and Magic III has "
-"always been one of my favourite games.  That's why when a board game "
+"I'm a DevOps engineer with a passion for gaming.  Heroes of Might and Magic "
+"III has always been one of my favourite games.  That's why when a board game "
 "crowdfunding was announced, I backed it in a heartbeat.  I helped create "
 "some of the community-made projects, like [Rule Book Rewrite](https://github."
 "com/Heegu-sama/Homm3BG), [Fan-Made Mission Book](https://github.com/qwrtln/"
-"Homm3BG-mission-book), and the [game wiki](https://homm3bg.wiki/)."
+"Homm3BG-mission-book), and the game [Wiki](https://homm3bg.wiki/)."
 msgstr ""
 
 #. type: Plain text

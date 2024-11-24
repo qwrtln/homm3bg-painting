@@ -1,5 +1,8 @@
 ---
 date: 2024-11-17 
+tags:
+    - Neutrals
+    - Metallics
 ---
 # Rogue
 
@@ -13,6 +16,8 @@ Overall, very happy with the result.
 I like how the shading and highlhting turned out, especially the cloak, boots, trousers, and even the face.
 That said, you can see beginner's unsteady hand in the metallic details.
 The base ended up a bit too glossy as well — probably from overusing the wash.
+
+Painting time: 5 h
 
 See Rogues on the [Wiki](https://homm3bg.wiki/units/rogues).
 

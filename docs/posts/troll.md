@@ -1,5 +1,8 @@
 ---
 date: 2024-11-20
+tags:
+  - Neutrals
+  - Dry-brush
 ---
 # Troll
 
@@ -13,6 +16,8 @@ Well, that crusty texture was not as straightforward (it involved some wonky dry
 Nevertheless, those yellow-tinted highlights turned out really well.
 This was also my first attempt at painting facial details like eyeballs and teeth.
 I'm really glad it worked out on the first try.
+
+Painting time: 7 h
 
 See Trolls on the [Wiki](https://homm3bg.wiki/units/trolls).
 

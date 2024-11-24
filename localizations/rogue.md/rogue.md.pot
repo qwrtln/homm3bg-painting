@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-24 01:23+0100\n"
+"POT-Creation-Date: 2024-11-24 16:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,18 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
 
 #. type: Title #
 #: docs/posts/rogue.md
@@ -42,6 +54,11 @@ msgid ""
 "trousers, and even the face.  That said, you can see beginner's unsteady "
 "hand in the metallic details.  The base ended up a bit too glossy as well — "
 "probably from overusing the wash."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/rogue.md
+msgid "Painting time: 5 h"
 msgstr ""
 
 #. type: Plain text

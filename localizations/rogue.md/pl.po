@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-24 01:23+0100\n"
+"POT-Creation-Date: 2024-11-24 16:57+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,6 +15,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Neutralne"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
 
 #. type: Title #
 #: docs/posts/rogue.md
@@ -36,6 +48,11 @@ msgstr ""
 #: docs/posts/rogue.md
 msgid "My first ever painted Heroes mini.  Overall, very happy with the result.  I like how the shading and highlhting turned out, especially the cloak, boots, trousers, and even the face.  That said, you can see beginner's unsteady hand in the metallic details.  The base ended up a bit too glossy as well — probably from overusing the wash."
 msgstr "Moja pierwsza pomalowana herosowa figurka. Na ogół jestem zadowolony z rezultatu. W szczególności podobają mi się cienie i rozjaśnienia na pelerynie, butach, spodniach, a nawet na twarzy. Widać jednak, że przy metalicznych detalach ręka początkującego jeszcze trochę drży. Podstawka też wyszła zbyt błyszcząca – pewnie przez nadużycie *wash*a."
+
+#. type: Plain text
+#: docs/posts/rogue.md
+msgid "Painting time: 5 h"
+msgstr "Czas malowania: 5 h"
 
 #. type: Plain text
 #: docs/posts/rogue.md

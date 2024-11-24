@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-24 01:23+0100\n"
+"POT-Creation-Date: 2024-11-24 16:57+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,6 +15,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Neutralne"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
 
 #. type: Title #
 #: docs/posts/troll.md
@@ -36,6 +48,11 @@ msgstr ""
 #: docs/posts/troll.md
 msgid "Green skin is supposedly easier to paint than human skin.  Well, that crusty texture was not as straightforward (it involved some wonky dry-brushing).  Nevertheless, those yellow-tinted highlights turned out really well.  This was also my first attempt at painting facial details like eyeballs and teeth.  I'm really glad it worked out on the first try."
 msgstr "Podobno zieloną skórę łatwiej jest namalować niż ludzką. No cóż, bąble na skórze okazały się nie takie łatwe (wykonane chwiejnym *dry-brushing*iem). Niemniej jednak żółtawe rozjaśnienia wyszły przyzwoicie. To także moje pierwsze podejście do malowania detali twarzy, takich jak źrenice czy zęby. Cieszy mnie, że udały się przy pierewszym podejściu."
+
+#. type: Plain text
+#: docs/posts/troll.md
+msgid "Painting time: 7 h"
+msgstr "Czas malowania: 7 h"
 
 #. type: Plain text
 #: docs/posts/troll.md

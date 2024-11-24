@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-22 14:25+0100\n"
+"POT-Creation-Date: 2024-11-24 17:03+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -35,10 +35,10 @@ msgstr ""
 
 #. type: Plain text
 #: docs/index.md
-msgid "I'm an experienced devops engineer.  Heroes of Might and Magic III has always been one of my favourite games.  That's why when a board game crowdfunding was announced, I backed it in a heartbeat.  I helped create some of the community-made projects, like [Rule Book Rewrite](https://github.com/Heegu-sama/Homm3BG), [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book), and the [game wiki](https://homm3bg.wiki/)."
-msgstr "Doświadczony inżynier DevOps. Heroes of Might and Magic III zawsze było jedną z moich ulubionych gier. Dlatego, gdy ogłoszono crowdfunding na grę planszową, wsparłem projekt bez wahania. Przyczyniłem się do powstania kilku projektów społecznościowych, takich jak [Fanowska Księga Zasad](https://github.com/Heegu-sama/Homm3BG), [Fanowska Księga Misji](https://github.com/qwrtln/Homm3BG-mission-book) oraz [wiki gry](https://homm3bg.wiki/)."
+msgid "I'm a DevOps engineer with a passion for gaming.  Heroes of Might and Magic III has always been one of my favourite games.  That's why when a board game crowdfunding was announced, I backed it in a heartbeat.  I helped create some of the community-made projects, like [Rule Book Rewrite](https://github.com/Heegu-sama/Homm3BG), [Fan-Made Mission Book](https://github.com/qwrtln/Homm3BG-mission-book), and the game [Wiki](https://homm3bg.wiki/)."
+msgstr "Jestem inżynierem DevOps z zamiłowaniem do gier. Heroes of Might and Magic III zawsze było jedną z moich ulubionych gier. Dlatego, gdy ogłoszono crowdfunding na grę planszową, wsparłem projekt bez wahania. Przyczyniłem się do powstania kilku projektów społecznościowych, takich jak [Fanowska Księga Zasad](https://github.com/Heegu-sama/Homm3BG), [Fanowska Księga Misji](https://github.com/qwrtln/Homm3BG-mission-book) oraz [Wiki](https://homm3bg.wiki/) gry."
 
 #. type: Plain text
 #: docs/index.md
 msgid "Since the game came with 100+ minis, I decided to take on a new hobby and paint them.  On this website I'll be sharing the result of my work."
-msgstr "Ponieważ gra zawierała ponad 100 figurek, postanowiłem podjąć się nowego hobby i je pomalować. Na tej stronie będę dzielił się rezultatami mojej pracy."
+msgstr "Ponieważ gra zawiera ponad 100 figurek, postanowiłem podjąć się nowego hobby i je pomalować. Na tej stronie będę dzielił się rezultatami mojej pracy."

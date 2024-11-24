@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-24 01:23+0100\n"
+"POT-Creation-Date: 2024-11-24 16:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,18 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
 
 #. type: Title #
 #: docs/posts/troll.md
@@ -42,6 +54,11 @@ msgid ""
 "Nevertheless, those yellow-tinted highlights turned out really well.  This "
 "was also my first attempt at painting facial details like eyeballs and "
 "teeth.  I'm really glad it worked out on the first try."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/troll.md
+msgid "Painting time: 7 h"
 msgstr ""
 
 #. type: Plain text
