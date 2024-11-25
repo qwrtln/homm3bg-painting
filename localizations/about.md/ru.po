@@ -35,4 +35,4 @@ msgstr "Если вы хотите получать уведомления о н
 #. type: Plain text
 #: docs/about.md
 msgid "This website doesn't use any cookies.  It was created using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), and is hosted on [GitHub Pages](https://pages.github.com/).  Unpainted mini preview videos come from [Matthew Rice's YouTube channel](https://www.youtube.com/@agentsolorunthroughs6010)."
-msgstr "Этот сайт не использует файлы cookie. Он был создан с использованием [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) и размещён на [GitHub Pages](https://pages.github.com/). Видео с ниепокрашенными минятюрами взяты с [YouTube-канала Мэтью Райся](https://www.youtube.com/@agentsolorunthroughs6010)."
+msgstr "Этот сайт не использует файлы cookie. Он был создан с использованием [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) и размещён на [GitHub Pages](https://pages.github.com/). Видео с непокрашенными миниатюрами взяты с [YouTube-канала Мэтью Райся](https://www.youtube.com/@agentsolorunthroughs6010)."
