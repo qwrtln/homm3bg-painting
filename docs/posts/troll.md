@@ -1,6 +1,6 @@
 ---
 date: 2024-11-20
-image: "assets/troll_front.jpeg"
+image: "https://paint-h3.qwrtln.nl/assets/troll_front.jpg"
 tags:
   - Neutrals
   - Dry-brush
