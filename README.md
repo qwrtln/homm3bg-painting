@@ -1,1 +1,0 @@
-# homm3bg-painting
