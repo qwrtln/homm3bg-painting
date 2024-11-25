@@ -26,6 +26,6 @@ See Trolls on the [Wiki](https://homm3bg.wiki/units/trolls).
 
 <details><summary>Click to see the unboxing video</summary>
   <video width="1280" height="720" controls preload="none">
-    <source src="assets/videos/troll.webm" type="video/webm">
+    <source src="/assets/videos/troll.webm" type="video/webm">
   </video>
 </details>
