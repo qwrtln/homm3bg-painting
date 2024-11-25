@@ -8,7 +8,7 @@ docs_dir: docs
 theme:
   name: material
   custom_dir: overrides
-  favicon: null
+  favicon: assets/favicon.svg
   language: en
   logo: assets/palette.png
   palette:
