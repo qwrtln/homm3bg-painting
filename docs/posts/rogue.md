@@ -25,7 +25,7 @@ Painting time: 5 h
 See Rogues on the [Wiki](https://homm3bg.wiki/units/rogues).
 
 <details><summary>Click to see the unboxing video</summary>
-  <video width="1280" height="720" controls>
+  <video width="1280" height="720" controls preload="none">
     <source src="assets/videos/rogue.webm" type="video/webm">
   </video>
 </details>

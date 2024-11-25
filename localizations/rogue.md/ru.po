@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-25 16:39+0100\n"
+"POT-Creation-Date: 2024-11-25 17:03+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,6 +30,7 @@ msgstr "Начало нового хобби."
 
 #. type: Yaml Front Matter Hash Value: image
 #: docs/posts/rogue.md
+#, no-wrap
 msgid "https://paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg"
 msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg"
 
@@ -80,13 +81,13 @@ msgstr "Посмотрите Разбойников на [Вики](https://homm
 #: docs/posts/rogue.md
 msgid ""
 "<details><summary>Click to see the unboxing video</summary>\n"
-"  <video width=\"1280\" height=\"720\" controls>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
 "    <source src=\"assets/videos/rogue.webm\" type=\"video/webm\">\n"
 "  </video>\n"
 "</details>\n"
 msgstr ""
 "<details><summary>Нажмите, чтобы посмотреть видео с распаковки</summary>\n"
-"  <video width=\"1280\" height=\"720\" controls>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
 "    <source src=\"assets/videos/rogue.webm\" type=\"video/webm\">\n"
 "  </video>\n"
 "</details>\n"
