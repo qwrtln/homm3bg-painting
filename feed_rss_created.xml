@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Painting of Might and Magic III</title>
+    <description>Painting minis of Heroes of Might and Magic III: The Board Game</description>
+    <link>https://paint-h3.qwrtln.nl/</link>
+    <atom:link href="https://paint-h3.qwrtln.nl/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Mon, 25 Nov 2024 21:01:37 -0000</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2024 21:01:37 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.16.0</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>Troll</title>
+      
+      
+      
+      
+      <description>Second painted Heroes unit.</description>
+      <link>https://paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <source url="https://paint-h3.qwrtln.nl/feed_rss_created.xml">Painting of Might and Magic III</source>
+      
+      <guid isPermaLink="true">https://paint-h3.qwrtln.nl/posts/2024/11/troll/</guid>
+      
+      <enclosure url="https://paint-h3.qwrtln.nl/assets/images/troll_front.jpg" type="image/jpeg" length="314266" />
+      
+    </item>
+    
+    <item>
+      <title>Rogue</title>
+      
+      
+      
+      
+      <description>Starting a new hobby.</description>
+      <link>https://paint-h3.qwrtln.nl/posts/2024/11/rogue/?utm_source=documentation&amp;utm_medium=RSS&amp;utm_campaign=feed-syndication</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <source url="https://paint-h3.qwrtln.nl/feed_rss_created.xml">Painting of Might and Magic III</source>
+      
+      <guid isPermaLink="true">https://paint-h3.qwrtln.nl/posts/2024/11/rogue/</guid>
+      
+      <enclosure url="https://paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg" type="image/jpeg" length="262238" />
+      
+    </item>
+    
+  </channel>
+</rss>

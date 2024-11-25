@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Painting of Might and Magic III",
+    "home_page_url": "https://paint-h3.qwrtln.nl/",
+    "feed_url": "https://paint-h3.qwrtln.nl/feed_json_updated.json",
+    "description": "Painting minis of Heroes of Might and Magic III: The Board Game",
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2024/11/troll/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Troll",
+            "content_html": "Second painted Heroes unit.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/troll_front.jpg",
+            "date_modified": "2024-11-25T21:01:37.800076+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2024/11/rogue/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2024/11/rogue/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Rogue",
+            "content_html": "Starting a new hobby.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg",
+            "date_modified": "2024-11-25T21:01:37.494413+00:00",
+            "authors": [],
+            "tags": null
+        }
+    ]
+}
