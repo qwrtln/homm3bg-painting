@@ -1,5 +1,6 @@
 ---
 date: 2024-11-17
+image: "../assets/rogue_front.jpeg"
 tags:
     - Neutrals
     - Metallics
