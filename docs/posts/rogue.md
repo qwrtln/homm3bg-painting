@@ -1,5 +1,7 @@
 ---
 date: 2024-11-17
+title: "Rogue"
+description: "Starting a new hobby."
 image: "https://paint-h3.qwrtln.nl/assets/rogue_front.jpeg"
 tags:
     - Neutrals

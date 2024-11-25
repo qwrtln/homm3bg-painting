@@ -1,5 +1,7 @@
 ---
 date: 2024-11-20
+title: "Troll"
+description: "Second painted Heroes unit."
 image: "https://paint-h3.qwrtln.nl/assets/troll_front.jpg"
 tags:
   - Neutrals
