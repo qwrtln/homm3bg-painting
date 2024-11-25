@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-25 12:12+0100\n"
+"POT-Creation-Date: 2024-11-25 16:43+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -36,9 +36,8 @@ msgstr "Второй покрашенный юнит Heroes."
 
 #. type: Yaml Front Matter Hash Value: image
 #: docs/posts/troll.md
-#, no-wrap
-msgid "https://paint-h3.qwrtln.nl/assets/troll_front.jpg"
-msgstr "https://ru.paint-h3.qwrtln.nl/assets/troll_front.jpg"
+msgid "https://paint-h3.qwrtln.nl/assets/images/troll_front.jpg"
+msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/troll_front.jpeg"
 
 #. type: Yaml Front Matter Array Element: tags
 #: docs/posts/troll.md
@@ -59,7 +58,7 @@ msgstr "Мой второй нейтральный юнит."
 
 #. type: Plain text
 #: docs/posts/troll.md
-msgid "![Troll front](../assets/troll_front.jpg)  ![Troll back](../assets/troll_back.jpg)"
+msgid "![Troll front](../assets/images/troll_front.jpg)  ![Troll back](../assets/images/troll_back.jpg)"
 msgstr ""
 
 #. type: Plain text
@@ -79,12 +78,15 @@ msgstr "Посмотрите Троллей на [Вики](https://homm3bg.wiki
 
 #. type: Plain text
 #: docs/posts/troll.md
-#, no-wrap
 msgid ""
 "<details><summary>Click to see the unboxing video</summary>\n"
-"  <iframe width=\"1280\" height=\"720\" src=\"https://www.youtube-nocookie.com/embed/RCvJ-YIeEgY?start=1972&end=1979&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n"
+"  <video width=\"1280\" height=\"720\" controls>\n"
+"    <source src=\"assets/videos/troll.webm\" type=\"video/webm\">\n"
+"  </video>\n"
 "</details>\n"
 msgstr ""
 "<details><summary>Нажмите, чтобы посмотреть видео с распаковки</summary>\n"
-"  <iframe width=\"1280\" height=\"720\" src=\"https://www.youtube-nocookie.com/embed/RCvJ-YIeEgY?start=1972&end=1979&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n"
+"  <video width=\"1280\" height=\"720\" controls>\n"
+"    <source src=\"assets/videos/troll.webm\" type=\"video/webm\">\n"
+"  </video>\n"
 "</details>\n"

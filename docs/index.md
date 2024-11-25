@@ -3,7 +3,7 @@ hide:
   - navigation
   - title
 ---
-![qwrtln](assets/photo.jpeg){ class=crop-left-mug }
+![qwrtln](assets/images/photo.jpeg){ class=crop-left-mug }
 
 I'm a DevOps engineer with a passion for gaming.
 Heroes of Might and Magic III has always been one of my favourite games.

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-25 11:01+0100\n"
+"POT-Creation-Date: 2024-11-25 16:39+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,7 +30,7 @@ msgstr ""
 
 #. type: Plain text
 #: docs/index.md
-msgid "![qwrtln](assets/photo.jpeg){ class=crop-left-mug }"
+msgid "![qwrtln](assets/images/photo.jpeg){ class=crop-left-mug }"
 msgstr ""
 
 #. type: Plain text

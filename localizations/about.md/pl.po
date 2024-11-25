@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-24 23:34+0100\n"
+"POT-Creation-Date: 2024-11-25 16:39+0100\n"
 "PO-Revision-Date: 2024-11-22 15:46+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,22 +17,22 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. type: Title #
-#: docs/contact.md
+#: docs/about.md
 #, no-wrap
 msgid "About"
 msgstr "O stronie"
 
 #. type: Plain text
-#: docs/contact.md
+#: docs/about.md
 msgid "You can reach me on the [Heroes 3 Community Discord server](https://discord.gg/nMbawQkj9R). My username is `qwrtln`."
 msgstr "Znajdziesz mnie na [Discordzie społeczności Heroes 3 Board Game](https://discord.gg/nMbawQkj9R). Mój login to `qwrtln`."
 
 #. type: Plain text
-#: docs/contact.md
+#: docs/about.md
 msgid "If you'd like to be notified about new posts, you can subscribe to the [RSS feed](https://paint-h3.qwrtln.nl/feed_rss_created.xml)."
 msgstr "Jeśli chciałbyś otrzymywać powiadomienia o nowych postach, możesz zasubskrybować [kanał RSS](https://pl.paint-h3.qwrtln.nl/feed_rss_created.xml)."
 
 #. type: Plain text
-#: docs/contact.md
-msgid "This website doesn't use any cookies. It was created using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), and is hosted on [GitHub Pages](https://pages.github.com/)."
-msgstr "Ta strona internetowa nie używa ciasteczek. Została stworzona przy użyciu [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), i jest hostowana na [GitHub Pages](https://pages.github.com/)."
+#: docs/about.md
+msgid "This website doesn't use any cookies.  It was created using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), and is hosted on [GitHub Pages](https://pages.github.com/).  Unpainted mini preview videos come from [Matthew Rice's YouTube channel](https://www.youtube.com/@agentsolorunthroughs6010)."
+msgstr "Ta strona internetowa nie używa ciasteczek. Została stworzona przy użyciu [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), i jest hostowana na [GitHub Pages](https://pages.github.com/). Filmiki z niepomalowanymi figurkami pochodzą z [kanału YouTube Matthew Rice'a](https://www.youtube.com/@agentsolorunthroughs6010)."

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-25 11:01+0100\n"
+"POT-Creation-Date: 2024-11-25 16:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgstr ""
 
 #. type: Plain text
 #: docs/index.md
-msgid "![qwrtln](assets/photo.jpeg){ class=crop-left-mug }"
+msgid "![qwrtln](assets/images/photo.jpeg){ class=crop-left-mug }"
 msgstr ""
 
 #. type: Plain text

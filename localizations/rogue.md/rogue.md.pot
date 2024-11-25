@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-25 12:12+0100\n"
+"POT-Creation-Date: 2024-11-25 16:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: image
 #: docs/posts/rogue.md
 #, no-wrap
-msgid "https://paint-h3.qwrtln.nl/assets/rogue_front.jpeg"
+msgid "https://paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg"
 msgstr ""
 
 #. type: Yaml Front Matter Array Element: tags
@@ -60,8 +60,8 @@ msgstr ""
 #. type: Plain text
 #: docs/posts/rogue.md
 msgid ""
-"![Rogue front](../assets/rogue_front.jpeg)  ![Rogue back](../assets/"
-"rogue_back.jpeg)"
+"![Rogue front](../assets/images/rogue_front.jpeg)  ![Rogue back](../assets/"
+"images/rogue_back.jpeg)"
 msgstr ""
 
 #. type: Plain text
@@ -89,6 +89,8 @@ msgstr ""
 #, no-wrap
 msgid ""
 "<details><summary>Click to see the unboxing video</summary>\n"
-"  <iframe width=\"1280\" height=\"720\" src=\"https://www.youtube-nocookie.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n"
+"  <video width=\"1280\" height=\"720\" controls>\n"
+"    <source src=\"assets/videos/rogue.webm\" type=\"video/webm\">\n"
+"  </video>\n"
 "</details>\n"
 msgstr ""

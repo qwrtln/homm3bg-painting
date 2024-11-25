@@ -2,7 +2,7 @@
 date: 2024-11-20
 title: "Troll"
 description: "Second painted Heroes unit."
-image: "https://paint-h3.qwrtln.nl/assets/troll_front.jpg"
+image: "https://paint-h3.qwrtln.nl/assets/images/troll_front.jpg"
 tags:
   - Neutrals
   - Dry-brush
@@ -11,8 +11,8 @@ tags:
 
 Here's my second neutral unit.
 
-![Troll front](../assets/troll_front.jpg)
-![Troll back](../assets/troll_back.jpg)
+![Troll front](../assets/images/troll_front.jpg)
+![Troll back](../assets/images/troll_back.jpg)
 
 Green skin is supposedly easier to paint than human skin.
 Well, that crusty texture was not as straightforward (it involved some wonky dry-brushing).
@@ -25,5 +25,7 @@ Painting time: 7 h
 See Trolls on the [Wiki](https://homm3bg.wiki/units/trolls).
 
 <details><summary>Click to see the unboxing video</summary>
-  <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/RCvJ-YIeEgY?start=1972&end=1979&mute=1" frameborder="0" allowfullscreen></iframe>
+  <video width="1280" height="720" controls>
+    <source src="assets/videos/troll.webm" type="video/webm">
+  </video>
 </details>

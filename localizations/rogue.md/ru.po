@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-25 12:12+0100\n"
+"POT-Creation-Date: 2024-11-25 16:39+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,9 +30,8 @@ msgstr "Начало нового хобби."
 
 #. type: Yaml Front Matter Hash Value: image
 #: docs/posts/rogue.md
-#, no-wrap
-msgid "https://paint-h3.qwrtln.nl/assets/rogue_front.jpeg"
-msgstr "https://ru.paint-h3.qwrtln.nl/assets/rogue_front.jpeg"
+msgid "https://paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg"
+msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg"
 
 #. type: Yaml Front Matter Array Element: tags
 #: docs/posts/rogue.md docs/posts/troll.md
@@ -59,7 +58,7 @@ msgstr "Я начал покрывать краской минятюры ней�
 
 #. type: Plain text
 #: docs/posts/rogue.md
-msgid "![Rogue front](../assets/rogue_front.jpeg)  ![Rogue back](../assets/rogue_back.jpeg)"
+msgid "![Rogue front](../assets/images/rogue_front.jpeg)  ![Rogue back](../assets/images/rogue_back.jpeg)"
 msgstr ""
 
 #. type: Plain text
@@ -79,12 +78,15 @@ msgstr "Посмотрите Разбойников на [Вики](https://homm
 
 #. type: Plain text
 #: docs/posts/rogue.md
-#, no-wrap
 msgid ""
 "<details><summary>Click to see the unboxing video</summary>\n"
-"  <iframe width=\"1280\" height=\"720\" src=\"https://www.youtube-nocookie.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n"
+"  <video width=\"1280\" height=\"720\" controls>\n"
+"    <source src=\"assets/videos/rogue.webm\" type=\"video/webm\">\n"
+"  </video>\n"
 "</details>\n"
 msgstr ""
 "<details><summary>Нажмите, чтобы посмотреть видео с распаковки</summary>\n"
-"  <iframe width=\"1280\" height=\"720\" src=\"https://www.youtube-nocookie.com/embed/RCvJ-YIeEgY?start=1935&end=1942&mute=1\" frameborder=\"0\" allowfullscreen></iframe>\n"
+"  <video width=\"1280\" height=\"720\" controls>\n"
+"    <source src=\"assets/videos/rogue.webm\" type=\"video/webm\">\n"
+"  </video>\n"
 "</details>\n"
