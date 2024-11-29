@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-29 02:14+0100\n"
+"POT-Creation-Date: 2024-11-29 03:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -118,8 +118,9 @@ msgstr ""
 #: docs/posts/peasant.md
 msgid ""
 "I used a flat brown for the base of the trousers, pitchfork, and cap, but "
-"this wasn’t the best choice.  I had to brighten the trousers and cap with a "
-"bit of orange, while darkening the pitchfork handle."
+"this wasn’t the best choice.  Follwing my wife's suggestion, I brightened "
+"the trousers and cap with a bit of orange, while darkening the pitchfork "
+"handle."
 msgstr ""
 
 #. type: Plain text

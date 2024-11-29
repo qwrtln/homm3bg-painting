@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-29 02:14+0100\n"
+"POT-Creation-Date: 2024-11-29 03:08+0100\n"
 "PO-Revision-Date: 2024-11-29 02:14+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,10 +30,9 @@ msgstr "Превратиться в Питера Брейгеля на один 
 
 #. type: Yaml Front Matter Hash Value: image
 #: docs/posts/peasant.md
-#, fuzzy, no-wrap
-#| msgid "https://paint-h3.qwrtln.nl/assets/images/troll_front.jpg"
+#, no-wrap
 msgid "https://paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
-msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/troll_front.jpeg"
+msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
 
 #. type: Yaml Front Matter Array Element: tags
 #: docs/posts/peasant.md docs/posts/rogue.md docs/posts/troll.md
@@ -104,7 +103,7 @@ msgstr "Посмотрите Крестьян на [Вики](https://homm3bg.wi
 #. type: Plain text
 #: docs/posts/peasant.md
 msgid "For the first time, I decided not to follow the colors on the card, as they were too vibrant.  An actual peasant would likely wear more muted clothing — violet shirts wouldn’t be in their wardrobe.  The mini ended up with earthy, autumn-inspired tones."
-msgstr "Впервые я решил не придерживаться цветов, указанных на карточке, так как они были слишком яркими. Настоящий крестьянин, скорее всего, носил бы более приглушённую одежду — фиолетовые рубашки точно не вписались бы в его гардероб. Миниатюра в итоге получила земляные тона с осенним вдохновением.."
+msgstr "Впервые я решил не придерживаться цветов, указанных на карточке, так как они были слишком яркими. Настоящий крестьянин, скорее всего, носил бы более приглушённую одежду — фиолетовые рубашки точно не вписались бы в его гардероб. Миниатюра в итоге переобрела земляные тона с осенним вдохновением."
 
 #. type: Title ###
 #: docs/posts/peasant.md
@@ -114,8 +113,8 @@ msgstr "Процесс"
 
 #. type: Plain text
 #: docs/posts/peasant.md
-msgid "I used a flat brown for the base of the trousers, pitchfork, and cap, but this wasn’t the best choice.  I had to brighten the trousers and cap with a bit of orange, while darkening the pitchfork handle."
-msgstr "Я использовал простой коричневый цвет в качестве основы для штанов, вил и шапки, но это оказалось не самым удачным выбором. Мне пришлось осветлить штаны и шапку с помощью небольшого количества оранжевого, а ручку вил затемнить."
+msgid "I used a flat brown for the base of the trousers, pitchfork, and cap, but this wasn’t the best choice.  Follwing my wife's suggestion, I brightened the trousers and cap with a bit of orange, while darkening the pitchfork handle."
+msgstr "Я использовал базовый коричневый цвет в качестве основы для штанов, вил и шапки, но это оказалось не самым удачным решением. По совету жены я осветлил штаны и шапку немного оранжевым, а ручку вил затемнил."
 
 #. type: Plain text
 #: docs/posts/peasant.md
@@ -125,7 +124,7 @@ msgstr "Рубашка и земля оказались слишком похо�
 #. type: Plain text
 #: docs/posts/peasant.md
 msgid "The pitchfork was painted with gunmetal, with silver edges, and a touch of black ink to tone down the shine.  To give the peasant a dirtier look, I used watered-down Dreadful Visage contrast paint as a wash."
-msgstr "Вилы были покрашены металлическим серым цветом (gunmetal) с серебряными краями и добавлением немного черного чернила, чтобы приглушить блеск. Чтобы придать крестьянину более грязный вид, я использовал разбавленную краску контраста Dreadful Visage в качестве wash."
+msgstr "Вилы были покрашены металлическим серым цветом (gunmetal) с серебряными краями и добавлением немного черного чернила, чтобы приглушить блеск. А чтобы придать крестьянину более грязный вид, я использовал разбавленную краску контраста Dreadful Visage в качестве wash."
 
 #. type: Title ###
 #: docs/posts/peasant.md
@@ -136,4 +135,4 @@ msgstr "Вывод"
 #. type: Plain text
 #: docs/posts/peasant.md
 msgid "My hand is getting steadier.  Here's to keeping this up before I run out of easy-to-paint neutral minis."
-msgstr "Моя рука становится всё увереннее. Посмотрим, сколько я смогу держать этот уровень, пока не закончатся легкие для покраса нейтральные миниатюры."
+msgstr "Моя рука постепенно перестает дрожать. Надеюсь, она успокится полностью, пока не закончатся легкие миниатюры."

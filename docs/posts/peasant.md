@@ -35,7 +35,7 @@ The mini ended up with earthy, autumn-inspired tones.
 ### The Process
 
 I used a flat brown for the base of the trousers, pitchfork, and cap, but this wasn’t the best choice.
-I had to brighten the trousers and cap with a bit of orange, while darkening the pitchfork handle.
+Follwing my wife's suggestion, I brightened the trousers and cap with a bit of orange, while darkening the pitchfork handle.
 
 The shirt and the ground were too similar in color, making the mini hard to look at.
 Luckily, there was enough grass, which I dry-brushed with the color I usually use for zombie skin.

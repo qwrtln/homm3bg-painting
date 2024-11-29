@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-29 02:14+0100\n"
+"POT-Creation-Date: 2024-11-29 03:08+0100\n"
 "PO-Revision-Date: 2024-11-29 02:14+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -67,7 +67,7 @@ msgstr "Chłop"
 #. type: Plain text
 #: docs/posts/peasant.md
 msgid "Becoming Pieter Bruegel for one afternoon.  Let's give this peasant some character before he ends up in the skeleton transformer."
-msgstr "Jak zostałem Pieterem Bruegelm na jeden wieczór. A niech ten chłop raz dobrze wygląda, zanim skończy w szkieletorni."
+msgstr "Jak zostałem Pieterem Bruegelm na jeden wieczór. A niech ten chłop choć raz dobrze wygląda, zanim skończy w szkieletorni."
 
 #. type: Plain text
 #: docs/posts/peasant.md
@@ -113,8 +113,8 @@ msgstr "Proces"
 
 #. type: Plain text
 #: docs/posts/peasant.md
-msgid "I used a flat brown for the base of the trousers, pitchfork, and cap, but this wasn’t the best choice.  I had to brighten the trousers and cap with a bit of orange, while darkening the pitchfork handle."
-msgstr "Użyłem brązu jako bazowego koloru dla spodni, wideł i czapki, ale to nie była najlepsza decyzja. Musiałem rozjaśnić spodnie i czapkę odrobiną pomarańczu, a uchwyt wideł odrobinę przyciemnić."
+msgid "I used a flat brown for the base of the trousers, pitchfork, and cap, but this wasn’t the best choice.  Follwing my wife's suggestion, I brightened the trousers and cap with a bit of orange, while darkening the pitchfork handle."
+msgstr "Użyłem brązu jako bazowego koloru dla spodni, wideł i czapki, ale to nie była najlepsza decyzja. Słuchając rady żony, rozjaśniłem spodnie i czapkę odrobiną pomarańczu, a uchwyt wideł odrobinę przyciemniłem."
 
 #. type: Plain text
 #: docs/posts/peasant.md
