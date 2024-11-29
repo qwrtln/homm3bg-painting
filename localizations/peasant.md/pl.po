@@ -26,7 +26,7 @@ msgstr ""
 #: docs/posts/peasant.md
 #, no-wrap
 msgid "Becoming Pieter Bruegel for one afternoon."
-msgstr ""
+msgstr "Jak zostałem Pieterem Bruegelm na jeden wieczór."
 
 #. type: Yaml Front Matter Hash Value: image
 #: docs/posts/peasant.md
