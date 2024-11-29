@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2024-11-30
 title: "Peasant"
 description: "Becoming Pieter Bruegel for one afternoon."
