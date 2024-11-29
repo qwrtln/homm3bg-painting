@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-11-29 02:14+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "2024-11-30"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Becoming Pieter Bruegel for one afternoon."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Peasant"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid ""
+"Becoming Pieter Bruegel for one afternoon.  Let's give this peasant some "
+"character before he ends up in the skeleton transformer."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid ""
+"![peasant front](../assets/images/peasant_front.webp)  ![peasant back](../"
+"assets/images/peasant_back.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "Painting time: 4 h"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/peasant.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "See Peasants on the [Wiki](https://homm3bg.wiki/units/peasants)."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid ""
+"For the first time, I decided not to follow the colors on the card, as they "
+"were too vibrant.  An actual peasant would likely wear more muted clothing — "
+"violet shirts wouldn’t be in their wardrobe.  The mini ended up with earthy, "
+"autumn-inspired tones."
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid ""
+"I used a flat brown for the base of the trousers, pitchfork, and cap, but "
+"this wasn’t the best choice.  I had to brighten the trousers and cap with a "
+"bit of orange, while darkening the pitchfork handle."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid ""
+"The shirt and the ground were too similar in color, making the mini hard to "
+"look at.  Luckily, there was enough grass, which I dry-brushed with the "
+"color I usually use for zombie skin.  Even this subdued color helped the "
+"mini feel more alive."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid ""
+"The pitchfork was painted with gunmetal, with silver edges, and a touch of "
+"black ink to tone down the shine.  To give the peasant a dirtier look, I "
+"used watered-down Dreadful Visage contrast paint as a wash."
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid ""
+"My hand is getting steadier.  Here's to keeping this up before I run out of "
+"easy-to-paint neutral minis."
+msgstr ""

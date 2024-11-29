@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-25 17:35+0100\n"
+"POT-Creation-Date: 2024-11-29 02:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,9 +17,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/rogue.md docs/posts/troll.md
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/troll.md
 #, no-wrap
 msgid "Neutrals"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: date
@@ -43,7 +49,7 @@ msgstr ""
 #. type: Yaml Front Matter Array Element: tags
 #: docs/posts/troll.md
 #, no-wrap
-msgid "Dry-brush"
+msgid "Gold"
 msgstr ""
 
 #. type: Title #
@@ -76,7 +82,7 @@ msgstr ""
 
 #. type: Plain text
 #: docs/posts/troll.md
-msgid "Painting time: 7 h"
+msgid "Painting time: 5 h"
 msgstr ""
 
 #. type: Plain text

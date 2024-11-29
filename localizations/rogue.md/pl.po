@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-25 17:35+0100\n"
+"POT-Creation-Date: 2024-11-29 02:14+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,6 +15,24 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Neutralne"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr "Brązowe"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: date
 #: docs/posts/rogue.md
@@ -33,18 +51,6 @@ msgstr "Początek nowego hobby."
 #, no-wrap
 msgid "https://paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg"
 msgstr "https://pl.paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg"
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/rogue.md docs/posts/troll.md
-#, no-wrap
-msgid "Neutrals"
-msgstr "Neutralne"
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/rogue.md
-#, no-wrap
-msgid "Metallics"
-msgstr ""
 
 #. type: Title #
 #: docs/posts/rogue.md
@@ -69,8 +75,8 @@ msgstr "Moja pierwsza pomalowana herosowa figurka. Na ogół jestem zadowolony z
 
 #. type: Plain text
 #: docs/posts/rogue.md
-msgid "Painting time: 5 h"
-msgstr "Czas malowania: 5 h"
+msgid "Painting time: 7 h"
+msgstr "Czas malowania: 7 h"
 
 #. type: Plain text
 #: docs/posts/rogue.md
@@ -79,6 +85,7 @@ msgstr "Zobacz Rozbójników na [Wiki](https://homm3bg.wiki/pl/units/rogues)."
 
 #. type: Plain text
 #: docs/posts/rogue.md
+#, no-wrap
 msgid ""
 "<details><summary>Click to see the unboxing video</summary>\n"
 "  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"

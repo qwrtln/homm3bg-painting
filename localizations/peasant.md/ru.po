@@ -1,0 +1,139 @@
+# Russian translations for homm package
+# Copyright (C) 2024 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2024-11-29 02:14+0100\n"
+"PO-Revision-Date: 2024-11-29 02:14+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "2024-11-30"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Becoming Pieter Bruegel for one afternoon."
+msgstr "Превратиться в Питера Брейгеля на один день."
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/peasant.md
+#, fuzzy, no-wrap
+#| msgid "https://paint-h3.qwrtln.nl/assets/images/troll_front.jpg"
+msgid "https://paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
+msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/troll_front.jpeg"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Нейтральные"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr "Коричневые"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Peasant"
+msgstr "Крестьянин"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "Becoming Pieter Bruegel for one afternoon.  Let's give this peasant some character before he ends up in the skeleton transformer."
+msgstr "Превращаюсь в Питера Брейгеля на один день. Давайте добавим этому крестьянину немного характера, прежде чем он попадёт в преобразователь скелетов."
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "![peasant front](../assets/images/peasant_front.webp)  ![peasant back](../assets/images/peasant_back.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "Painting time: 4 h"
+msgstr "Время покраски: 4 ч"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/peasant.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Нажмите, чтобы посмотреть видео с распаковки</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/peasant.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "See Peasants on the [Wiki](https://homm3bg.wiki/units/peasants)."
+msgstr "Посмотрите Крестьян на [Вики](https://homm3bg.wiki/units/peasants)."
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "For the first time, I decided not to follow the colors on the card, as they were too vibrant.  An actual peasant would likely wear more muted clothing — violet shirts wouldn’t be in their wardrobe.  The mini ended up with earthy, autumn-inspired tones."
+msgstr "Впервые я решил не придерживаться цветов, указанных на карточке, так как они были слишком яркими. Настоящий крестьянин, скорее всего, носил бы более приглушённую одежду — фиолетовые рубашки точно не вписались бы в его гардероб. Миниатюра в итоге получила земляные тона с осенним вдохновением.."
+
+#. type: Title ###
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr "Процесс"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "I used a flat brown for the base of the trousers, pitchfork, and cap, but this wasn’t the best choice.  I had to brighten the trousers and cap with a bit of orange, while darkening the pitchfork handle."
+msgstr "Я использовал простой коричневый цвет в качестве основы для штанов, вил и шапки, но это оказалось не самым удачным выбором. Мне пришлось осветлить штаны и шапку с помощью небольшого количества оранжевого, а ручку вил затемнить."
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "The shirt and the ground were too similar in color, making the mini hard to look at.  Luckily, there was enough grass, which I dry-brushed with the color I usually use for zombie skin.  Even this subdued color helped the mini feel more alive."
+msgstr "Рубашка и земля оказались слишком похожими по цвету, из-за чего миниатюра выглядела плохо различимой. К счастью, травы было достаточно, и я нанес на неё dry-brush цветом, который обычно использую для кожи зомби. Даже этот приглушённый оттенок сделал миниатюру более \"живой\"."
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "The pitchfork was painted with gunmetal, with silver edges, and a touch of black ink to tone down the shine.  To give the peasant a dirtier look, I used watered-down Dreadful Visage contrast paint as a wash."
+msgstr "Вилы были покрашены металлическим серым цветом (gunmetal) с серебряными краями и добавлением немного черного чернила, чтобы приглушить блеск. Чтобы придать крестьянину более грязный вид, я использовал разбавленную краску контраста Dreadful Visage в качестве wash."
+
+#. type: Title ###
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Вывод"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "My hand is getting steadier.  Here's to keeping this up before I run out of easy-to-paint neutral minis."
+msgstr "Моя рука становится всё увереннее. Посмотрим, сколько я смогу держать этот уровень, пока не закончатся легкие для покраса нейтральные миниатюры."

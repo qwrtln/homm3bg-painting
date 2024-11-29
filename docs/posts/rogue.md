@@ -4,8 +4,9 @@ title: "Rogue"
 description: "Starting a new hobby."
 image: "https://paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg"
 tags:
-    - Neutrals
-    - Metallics
+  - Neutrals
+  - Bronze
+  - Metallics
 ---
 # Rogue
 
@@ -20,7 +21,7 @@ I like how the shading and highlhting turned out, especially the cloak, boots, t
 That said, you can see beginner's unsteady hand in the metallic details.
 The base ended up a bit too glossy as well — probably from overusing the wash.
 
-Painting time: 5 h
+Painting time: 7 h
 
 See Rogues on the [Wiki](https://homm3bg.wiki/units/rogues).
 

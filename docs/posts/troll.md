@@ -5,6 +5,7 @@ description: "Second painted Heroes unit."
 image: "https://paint-h3.qwrtln.nl/assets/images/troll_front.jpg"
 tags:
   - Neutrals
+  - Gold
   - Dry-brush
 ---
 # Troll
@@ -20,7 +21,7 @@ Nevertheless, those yellow-tinted highlights turned out really well.
 This was also my first attempt at painting facial details like eyeballs and teeth.
 I'm really glad it worked out on the first try.
 
-Painting time: 7 h
+Painting time: 5 h
 
 See Trolls on the [Wiki](https://homm3bg.wiki/units/trolls).
 

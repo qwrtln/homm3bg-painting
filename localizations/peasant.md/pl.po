@@ -1,0 +1,138 @@
+# Polish translations for homm package
+# Copyright (C) 2024 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2024-11-29 02:14+0100\n"
+"PO-Revision-Date: 2024-11-29 02:14+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "2024-11-30"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Becoming Pieter Bruegel for one afternoon."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
+msgstr "https://pl.paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Neutralne"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr "Brązowe"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Peasant"
+msgstr "Chłop"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "Becoming Pieter Bruegel for one afternoon.  Let's give this peasant some character before he ends up in the skeleton transformer."
+msgstr "Jak zostałem Pieterem Bruegelm na jeden wieczór. A niech ten chłop raz dobrze wygląda, zanim skończy w szkieletorni."
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "![peasant front](../assets/images/peasant_front.webp)  ![peasant back](../assets/images/peasant_back.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "Painting time: 4 h"
+msgstr "Czas malowania: 4 h"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/peasant.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Kliknij, aby zobaczyć wideo z rozpakowywania</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/peasant.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "See Peasants on the [Wiki](https://homm3bg.wiki/units/peasants)."
+msgstr "Zobacz Chłopów na [Wiki](https://homm3bg.wiki/pl/units/peasants)."
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "For the first time, I decided not to follow the colors on the card, as they were too vibrant.  An actual peasant would likely wear more muted clothing — violet shirts wouldn’t be in their wardrobe.  The mini ended up with earthy, autumn-inspired tones."
+msgstr "Po raz pierwszy postanowiłem nie trzymać się kolorów z karty, ponieważ były zbyt żywe. Prawdziwy chłop raczej nosiłby bardziej stonowaną odzież — fioletowe koszule raczej nie znalazłyby się w jego garderobie. Figurka ostatecznie otrzymała ziemiste, jesienne barwy."
+
+#. type: Title ###
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr "Proces"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "I used a flat brown for the base of the trousers, pitchfork, and cap, but this wasn’t the best choice.  I had to brighten the trousers and cap with a bit of orange, while darkening the pitchfork handle."
+msgstr "Użyłem brązu jako bazowego koloru dla spodni, wideł i czapki, ale to nie była najlepsza decyzja. Musiałem rozjaśnić spodnie i czapkę odrobiną pomarańczu, a uchwyt wideł odrobinę przyciemnić."
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "The shirt and the ground were too similar in color, making the mini hard to look at.  Luckily, there was enough grass, which I dry-brushed with the color I usually use for zombie skin.  Even this subdued color helped the mini feel more alive."
+msgstr "Koszula i podstawka były zbyt podobne kolorystycznie, przez co figurka wyglądała zbyt jednolicie. Na szczęście było wystarczająco miejsc z trawą, którą pomalowałem metodą dry-brush kolorem, którego zwykle używam do malowania skóry zombie. Nawet ten stonowany odcień sprawił, że figurka wygląda bardziej żywo."
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "The pitchfork was painted with gunmetal, with silver edges, and a touch of black ink to tone down the shine.  To give the peasant a dirtier look, I used watered-down Dreadful Visage contrast paint as a wash."
+msgstr "Widły zostały pomalowane metalicznym szarym kolorem (gunmetal) z srebrnymi krawędziami i lekkim dodatkiem czarnego tuszu, żeby stonować połysk. Aby nadać chłopu bardziej zabrudzony wygląd, użyłem rozcieńczonej farby kontrastowej Dreadful Visage jako wash."
+
+#. type: Title ###
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Wniosek"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "My hand is getting steadier.  Here's to keeping this up before I run out of easy-to-paint neutral minis."
+msgstr "Moja ręka powoli przestaje drżeć. Oby uspokiła się całkiem, zanim skończą mi się łatwe figurki."
