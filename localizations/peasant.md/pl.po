@@ -26,7 +26,7 @@ msgstr ""
 #: docs/posts/peasant.md
 #, no-wrap
 msgid "Becoming Pieter Bruegel for one afternoon."
-msgstr "Jak zostałem Pieterem Bruegelm na jeden wieczór."
+msgstr "Jak zostałem Pieterem Bruegelem na jeden wieczór."
 
 #. type: Yaml Front Matter Hash Value: image
 #: docs/posts/peasant.md
@@ -67,7 +67,7 @@ msgstr "Chłop"
 #. type: Plain text
 #: docs/posts/peasant.md
 msgid "Becoming Pieter Bruegel for one afternoon.  Let's give this peasant some character before he ends up in the skeleton transformer."
-msgstr "Jak zostałem Pieterem Bruegelm na jeden wieczór. A niech ten chłop choć raz dobrze wygląda, zanim skończy w szkieletorni."
+msgstr "Jak zostałem Pieterem Bruegelem na jeden wieczór. A niech ten chłop choć raz dobrze wygląda, zanim skończy w szkieletorni."
 
 #. type: Plain text
 #: docs/posts/peasant.md
@@ -103,7 +103,7 @@ msgstr "Zobacz Chłopów na [Wiki](https://homm3bg.wiki/pl/units/peasants)."
 #. type: Plain text
 #: docs/posts/peasant.md
 msgid "For the first time, I decided not to follow the colors on the card, as they were too vibrant.  An actual peasant would likely wear more muted clothing — violet shirts wouldn’t be in their wardrobe.  The mini ended up with earthy, autumn-inspired tones."
-msgstr "Po raz pierwszy postanowiłem nie trzymać się kolorów z karty, ponieważ były zbyt żywe. Prawdziwy chłop raczej nosiłby bardziej stonowaną odzież — fioletowe koszule raczej nie znalazłyby się w jego garderobie. Figurka ostatecznie otrzymała ziemiste, jesienne barwy."
+msgstr "Po raz pierwszy postanowiłem nie trzymać się kolorów z karty, ponieważ były zbyt żywe. Prawdziwy chłop raczej nosiłby bardziej stonowane ubranie — fioletowe koszule raczej nie znalazłyby się w jego garderobie. Figurka ostatecznie otrzymała ziemiste, jesienne barwy."
 
 #. type: Title ###
 #: docs/posts/peasant.md
