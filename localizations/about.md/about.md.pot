@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-25 16:39+0100\n"
+"POT-Creation-Date: 2024-11-30 23:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,6 +27,13 @@ msgstr ""
 msgid ""
 "You can reach me on the [Heroes 3 Community Discord server](https://discord."
 "gg/nMbawQkj9R). My username is `qwrtln`."
+msgstr ""
+
+#. type: Plain text
+#: docs/about.md
+msgid ""
+"This website is available in English, [Polish](https://pl.paint-h3.qwrtln.nl/"
+"about), and [Russian](https://ru.paint-h3.qwrtln.nl/about)."
 msgstr ""
 
 #. type: Plain text

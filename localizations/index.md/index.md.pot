@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-25 16:39+0100\n"
+"POT-Creation-Date: 2024-11-30 23:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,4 +49,11 @@ msgstr ""
 msgid ""
 "Since the game came with 100+ minis, I decided to take on a new hobby and "
 "paint them.  On this website I'll be sharing the results of my work."
+msgstr ""
+
+#. type: Plain text
+#: docs/index.md
+msgid ""
+"You can read this website in English, [Polish](https://pl.paint-h3.qwrtln."
+"nl), or [Russian](https://ru.paint-h3.qwrtln.nl)."
 msgstr ""

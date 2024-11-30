@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-25 16:39+0100\n"
+"POT-Creation-Date: 2024-11-30 23:50+0100\n"
 "PO-Revision-Date: 2024-11-22 15:46+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -26,6 +26,11 @@ msgstr "O stronie"
 #: docs/about.md
 msgid "You can reach me on the [Heroes 3 Community Discord server](https://discord.gg/nMbawQkj9R). My username is `qwrtln`."
 msgstr "Znajdziesz mnie na [Discordzie społeczności Heroes 3 Board Game](https://discord.gg/nMbawQkj9R). Mój login to `qwrtln`."
+
+#. type: Plain text
+#: docs/about.md
+msgid "This website is available in English, [Polish](https://pl.paint-h3.qwrtln.nl/about), and [Russian](https://ru.paint-h3.qwrtln.nl/about)."
+msgstr "Ta strona jest dostępna po [angielsku](https://paint-h3.qwrtln.nl/about), polsku lub [rosyjsku](https://ru.paint-h3.qwrtln.nl/about)."
 
 #. type: Plain text
 #: docs/about.md

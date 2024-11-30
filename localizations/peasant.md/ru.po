@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-29 03:08+0100\n"
+"POT-Creation-Date: 2024-11-30 23:51+0100\n"
 "PO-Revision-Date: 2024-11-29 02:14+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -63,6 +63,11 @@ msgstr ""
 #, no-wrap
 msgid "Peasant"
 msgstr "Крестьянин"
+
+#. type: Plain text
+#: docs/posts/peasant.md
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2024/11/chłop/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2024/11/крестьянин/)</small>\n"
+msgstr "<small>Читайте на другом языке: [:gb:](https://paint-h3.qwrtln.nl/posts/2024/11/peasant/) [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2024/11/chłop/)</small>\n"
 
 #. type: Plain text
 #: docs/posts/peasant.md

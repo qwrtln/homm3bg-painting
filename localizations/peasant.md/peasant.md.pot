@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-29 03:08+0100\n"
+"POT-Creation-Date: 2024-11-30 23:51+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,6 +62,12 @@ msgstr ""
 #: docs/posts/peasant.md
 #, no-wrap
 msgid "Peasant"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/peasant.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2024/11/chłop/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2024/11/крестьянин/)</small>\n"
 msgstr ""
 
 #. type: Plain text

@@ -12,3 +12,5 @@ I helped create some of the community-made projects, like [Rule Book Rewrite](ht
 
 Since the game came with 100+ minis, I decided to take on a new hobby and paint them.
 On this website I'll be sharing the results of my work.
+
+You can read this website in English, [Polish](https://pl.paint-h3.qwrtln.nl), or [Russian](https://ru.paint-h3.qwrtln.nl).

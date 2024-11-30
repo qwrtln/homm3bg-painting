@@ -10,6 +10,7 @@ tags:
   - Metallics
 ---
 # Peasant
+<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2024/11/chłop/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2024/11/крестьянин/)</small>
 
 Becoming Pieter Bruegel for one afternoon.
 Let's give this peasant some character before he ends up in the skeleton transformer.

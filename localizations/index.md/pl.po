@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-25 16:39+0100\n"
+"POT-Creation-Date: 2024-11-30 23:49+0100\n"
 "PO-Revision-Date: 2024-11-22 14:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -42,3 +42,8 @@ msgstr "Jestem inżynierem DevOps z zamiłowaniem do gier. Heroes of Might and M
 #: docs/index.md
 msgid "Since the game came with 100+ minis, I decided to take on a new hobby and paint them.  On this website I'll be sharing the results of my work."
 msgstr "Ponieważ gra zawiera ponad 100 figurek, postanowiłem podjąć się nowego hobby i je pomalować. Na tej stronie będę dzielił się rezultatami mojej pracy."
+
+#. type: Plain text
+#: docs/index.md
+msgid "You can read this website in English, [Polish](https://pl.paint-h3.qwrtln.nl), or [Russian](https://ru.paint-h3.qwrtln.nl)."
+msgstr "Możesz czytać tę stronę po [angielsku](https://paint-h3.qwrtln.nl), polsku lub [rosyjsku](https://ru.paint-h3.qwrtln.nl)."
