@@ -11,6 +11,8 @@ theme:
   favicon: assets/favicon.svg
   language: en
   logo: assets/palette.png
+  icon:
+    alternate: gb-round
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: defaultfavicon.ico

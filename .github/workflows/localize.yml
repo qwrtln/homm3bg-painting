@@ -29,6 +29,7 @@ jobs:
           sed -i -e 's/language: en/language: ${{ matrix.language }}/' \
                  -e 's@site_url: https://paint-h3.qwrtln.nl/@site_url: https://${{ matrix.language }}.paint-h3.qwrtln.nl/@' \
                  -e 's/Painting minis of Heroes of Might and Magic III: The Board Game/${{ matrix.site_description }}/' \
+                 -e 's/gb-round/${{ matrix.language }}-round/' \
             mkdocs.yml
 
       - name: Set localization language
