@@ -9,7 +9,7 @@ tags:
   - Dry-brush
 ---
 # Boar
-<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/кабан/)</small>
+<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/боров/)</small>
 
 My first mini with a large 5 cm base.
 I kept falling into the "just one more brush stroke" trap.

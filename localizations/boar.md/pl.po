@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-02 17:15+0100\n"
+"POT-Creation-Date: 2025-02-02 17:23+0100\n"
 "PO-Revision-Date: 2025-02-02 16:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -62,7 +62,7 @@ msgstr "Dzik"
 #. type: Plain text
 #: docs/posts/boar.md
 #, no-wrap
-msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/кабан/)</small>\n"
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/боров/)</small>\n"
 msgstr "<small>Czytaj w innym języku: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/02/boar/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/боров/)</small>\n"
 
 #. type: Plain text
