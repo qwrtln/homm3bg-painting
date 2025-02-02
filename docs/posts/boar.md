@@ -17,9 +17,9 @@ I kept falling into the "just one more brush stroke" trap.
 ![boar front](../assets/images/boar-1.webp)
 ![boar back](../assets/images/boar-4.webp)
 
-<div style="display: flex">
-  <a href="/assets/images/boar-1.webp" style="flex: 50; padding-top: 10px"><img src="/assets/images/boar-1.webp" style="width: 100%" /></a>
-  <img src="https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp" style="flex: 50; width: 100%" />
+<div style="display: flex; min-width: 100%">
+  <a href="/assets/images/boar-1.webp" style="width: 50%; padding-top: 10px"><img src="/assets/images/boar-1.webp" style="width: 100%" /></a>
+  <img src="https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp" style="width: 50%" />
 </div>
 
 <details><summary>Click to see the unboxing video</summary>

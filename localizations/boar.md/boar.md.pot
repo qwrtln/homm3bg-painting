@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-02 17:23+0100\n"
+"POT-Creation-Date: 2025-02-02 23:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,9 +83,9 @@ msgstr ""
 #: docs/posts/boar.md
 #, no-wrap
 msgid ""
-"<div style=\"display: flex\">\n"
-"  <a href=\"/assets/images/boar-1.webp\" style=\"flex: 50; padding-top: 10px\"><img src=\"/assets/images/boar-1.webp\" style=\"width: 100%\" /></a>\n"
-"  <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"flex: 50; width: 100%\" />\n"
+"<div style=\"display: flex; min-width: 100%\">\n"
+"  <a href=\"/assets/images/boar-1.webp\" style=\"width: 50%; padding-top: 10px\"><img src=\"/assets/images/boar-1.webp\" style=\"width: 100%\" /></a>\n"
+"  <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"width: 50%\" />\n"
 "</div>\n"
 msgstr ""
 
