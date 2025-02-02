@@ -1,0 +1,163 @@
+# Polish translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-02-02 17:15+0100\n"
+"PO-Revision-Date: 2025-02-02 16:16+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/boar.md
+#, no-wrap
+msgid "2025-02-02"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/boar.md
+#, no-wrap
+msgid "First mini with a large 5 cm base."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/boar.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/boar-1.webp"
+msgstr "https://pl.paint-h3.qwrtln.nl/assets/images/boar-1.webp"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Neutralne"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr "Brązowe"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/boar.md
+#, no-wrap
+msgid "Boar"
+msgstr "Dzik"
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/кабан/)</small>\n"
+msgstr "<small>Czytaj w innym języku: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/02/boar/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/боров/)</small>\n"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "My first mini with a large 5 cm base.  I kept falling into the \"just one more brush stroke\" trap."
+msgstr "Moja pierwsza figurka z dużą, 5-centymetrową podstawką. Ciągle wpadałem w pułapkę \"jeszcze tylko jedno pociągnięcie pędzlem\"."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "![boar front](../assets/images/boar-1.webp)  ![boar back](../assets/images/boar-4.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid ""
+"<div style=\"display: flex\">\n"
+"  <a href=\"/assets/images/boar-1.webp\" style=\"flex: 50; padding-top: 10px\"><img src=\"/assets/images/boar-1.webp\" style=\"width: 100%\" /></a>\n"
+"  <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"flex: 50; width: 100%\" />\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/boar.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Kliknij, aby zobaczyć wideo z rozpakowywania</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/boar.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "See Boars on the [Wiki](https://homm3bg.wiki/units/boars)."
+msgstr "Zobacz Dziki na [Wiki](https://homm3bg.wiki/pl/units/boars) (rym Brzechwy godzien)."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "Despite my efforts, matching the original colors was nearly impossible, especially for the animal's fur.  One must master the dry-brush technique on simpler subjects before attempting more formidable creatures like dragons."
+msgstr "Pomimo moich starań, odwzorowanie oryginalnych kolorów okazało się omal niemożliwe, szczególnie w przypadku sierści zwierzęcia. Trzeba opanować technikę dry-brush na prostszych modelach, zanim podejmie się próbę malowania bardziej okazałych stworów, takich jak smoki."
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr "Proces"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "I started with the base colors (though skipping some details like the beast's fangs) without planning the entire process."
+msgstr "Zacząłem od kolorów bazowych (pomijając niektóre detale, jak dzika [*bardzo ostre*] kły) bez planowania całego procesu."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "![boar base](../assets/images/boar-base.webp)  /// caption Base colors with zenithal priming visible on the base ///"
+msgstr ""
+"![boar base](../assets/images/boar-base.webp)\n"
+"/// caption\n"
+"Kolory bazowe z widocznym zenitalnym podkładem na podstawce\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "I purposefully made the fur dark (brown + black) to create contrast with the orange highlights added later.  After initial attempts, I abandoned the black lowlights as the results were underwhelming.  The second layer was painted with orange + brown to match the card's color, and the final highlights were applied using dry-brushing with pure orange."
+msgstr "Celowo zrobiłem ciemną sierść (brąz + czerń), aby stworzyć kontrast z rudawymi rozjaśnieniami dodanymi później. Po pierwszych próbach zrezygnowałem z czarnych pasemek, ponieważ efekty były mało zadowalające. Druga warstwa została pomalowana mieszanką pomarańczowego i brązowego, aby dopasować się do koloru z karty, a końcowe rozjaśnienia zostały nałożone techniką dry-brush czystym pomarańczowym."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "What remained were the facial details of both beast and rider, proper highlights for the goblin's skin, edge highlights on the saddle, and armor details.  With so many similar colors, choosing the appropriate pallette was challenging."
+msgstr "Pozostały jeszcze szczegóły mordy bestii i twarzy jeźdźca, odpowiednie rozjaśnienia skóry goblina, krawędzie siodła oraz detale zbroi. Przy tak wielu podobnych kolorach, wybór odpowiedniej palety był wyzwaniem."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "The base is painted in desert tan with Agrax Earthshade in the recesses.  The stones are black with a touch of blue for a slight grey appearance."
+msgstr "Podstawka jest pomalowana pustynnym beżem (desert tan) z Agrax Earthshade w zagłębieniach. Kamienie są pomalowane mieszanką czarnego z odrobiną niebieskiego dla uzyskania lekko szarego wyglądu."
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Wniosek"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "I shouldn't hesitate to use stronger highlights.  Additionally, distinguishing between similar colors should be planned before starting the project."
+msgstr "Powinienem robić nieco mocniejsze rozjaśnienia. Poza tym rozróżnienie między podobnymi kolorami powinno być zaplanowane przed rozpoczęciem malowania."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "Having a wife who is a designer is invaluable - she helps me break through creative blocks."
+msgstr "A żona projektant to skarb - służy jako skuteczny łom kreatywności."

@@ -1,0 +1,163 @@
+# Russian translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-02-02 17:15+0100\n"
+"PO-Revision-Date: 2025-02-02 16:16+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/boar.md
+#, no-wrap
+msgid "2025-02-02"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/boar.md
+#, no-wrap
+msgid "First mini with a large 5 cm base."
+msgstr "Первая миниатюра с большой основой 5 см."
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/boar.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/boar-1.webp"
+msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/boar-1.webp"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Нейтральные"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr "Коричневые"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/boar.md
+#, no-wrap
+msgid "Boar"
+msgstr "Боров"
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/кабан/)</small>\n"
+msgstr "<small>Читайте на другом языке: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/02/boar/) [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/)</small>\n"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "My first mini with a large 5 cm base.  I kept falling into the \"just one more brush stroke\" trap."
+msgstr "Моя первая попытка с миниатюрой с большой основой 5 см. Я постоянно попадал в ловушку «ещё один мазок кистью»."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "![boar front](../assets/images/boar-1.webp)  ![boar back](../assets/images/boar-4.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid ""
+"<div style=\"display: flex\">\n"
+"  <a href=\"/assets/images/boar-1.webp\" style=\"flex: 50; padding-top: 10px\"><img src=\"/assets/images/boar-1.webp\" style=\"width: 100%\" /></a>\n"
+"  <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"flex: 50; width: 100%\" />\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/boar.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Нажмите, чтобы посмотреть видео с распаковки</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/boar.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "See Boars on the [Wiki](https://homm3bg.wiki/units/boars)."
+msgstr "Посмотрите Боровы на [Вики](https://homm3bg.wiki/units/boars)."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "Despite my efforts, matching the original colors was nearly impossible, especially for the animal's fur.  One must master the dry-brush technique on simpler subjects before attempting more formidable creatures like dragons."
+msgstr "Несмотря на все мои усилия, подобрать оригинальные цвета было практически невозможно, особенно для шерсти животного. Прежде чем браться за более сложных существ вроде драконов, нужно освоить технику сухой кисти на более простых объектах."
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr "Процесс"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "I started with the base colors (though skipping some details like the beast's fangs) without planning the entire process."
+msgstr "Я начал с базовых цветов (пропустив некоторые детали, например клыки зверя), не планируя весь процесс."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "![boar base](../assets/images/boar-base.webp)  /// caption Base colors with zenithal priming visible on the base ///"
+msgstr ""
+"![boar base](../assets/images/boar-base.webp)\n"
+"/// caption\n"
+"Базовые цвета с видимым *zenithal priming* на основании\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "I purposefully made the fur dark (brown + black) to create contrast with the orange highlights added later.  After initial attempts, I abandoned the black lowlights as the results were underwhelming.  The second layer was painted with orange + brown to match the card's color, and the final highlights were applied using dry-brushing with pure orange."
+msgstr "Я намеренно сделал шерсть тёмной (коричневый + чёрный), чтобы создать контраст с оранжевыми хайлайтами, добавленными позже. После первых попыток я отказался от чёрных теней, так как результаты были неубедительными. Второй слой был нанесён оранжевым + коричневым, чтобы соответствовать цвету карты, а финальные блики были нанесены сухой кистью чистым оранжевым."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "What remained were the facial details of both beast and rider, proper highlights for the goblin's skin, edge highlights on the saddle, and armor details.  With so many similar colors, choosing the appropriate pallette was challenging."
+msgstr "Оставалось проработать детали морды зверя и лица наездника, правильные блики на коже гоблина, подсветить края седла и детали доспехов. С таким количеством похожих цветов выбор подходящей палитры был непростой задачей."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "The base is painted in desert tan with Agrax Earthshade in the recesses.  The stones are black with a touch of blue for a slight grey appearance."
+msgstr "Основание окрашено в пустынный бежевый цвет (desert tan) с Agrax Earthshade в углублениях. Камни чёрные с небольшим добавлением синего для создания слегка серого оттенка."
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Вывод"
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "I shouldn't hesitate to use stronger highlights.  Additionally, distinguishing between similar colors should be planned before starting the project."
+msgstr "Мне не стоит бояться использовать более сильные хайлайты. Кроме того, различия между похожими цветами следует планировать до начала работы над проектом."
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "Having a wife who is a designer is invaluable - she helps me break through creative blocks."
+msgstr "А жена-дизайнер - это золото: служит отличным рычагом для творчества."

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-30 23:50+0100\n"
+"POT-Creation-Date: 2025-02-02 16:15+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,8 +25,8 @@ msgstr ""
 #. type: Plain text
 #: docs/about.md
 msgid ""
-"You can reach me on the [Heroes 3 Community Discord server](https://discord."
-"gg/nMbawQkj9R). My username is `qwrtln`."
+"You can reach me on the [Heroes 3 Community Discord server](https://"
+"discord.gg/nMbawQkj9R). My username is `qwrtln`."
 msgstr ""
 
 #. type: Plain text

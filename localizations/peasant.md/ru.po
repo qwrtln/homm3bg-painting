@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2024-11-30 23:51+0100\n"
+"POT-Creation-Date: 2025-02-02 16:16+0100\n"
 "PO-Revision-Date: 2024-11-29 02:14+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,6 +15,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Нейтральные"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr "Коричневые"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr "Процесс"
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Вывод"
 
 #. type: Yaml Front Matter Hash Value: date
 #: docs/posts/peasant.md
@@ -35,24 +66,6 @@ msgid "https://paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
 msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/troll.md
-#, no-wrap
-msgid "Neutrals"
-msgstr "Нейтральные"
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/peasant.md docs/posts/rogue.md
-#, no-wrap
-msgid "Bronze"
-msgstr "Коричневые"
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/peasant.md docs/posts/troll.md
-#, no-wrap
-msgid "Dry-brush"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: tags
 #: docs/posts/peasant.md docs/posts/rogue.md
 #, no-wrap
 msgid "Metallics"
@@ -66,6 +79,7 @@ msgstr "Крестьянин"
 
 #. type: Plain text
 #: docs/posts/peasant.md
+#, no-wrap
 msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2024/11/chłop/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2024/11/крестьянин/)</small>\n"
 msgstr "<small>Читайте на другом языке: [:gb:](https://paint-h3.qwrtln.nl/posts/2024/11/peasant/) [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2024/11/chłop/)</small>\n"
 
@@ -110,12 +124,6 @@ msgstr "Посмотрите Крестьян на [Вики](https://homm3bg.wi
 msgid "For the first time, I decided not to follow the colors on the card, as they were too vibrant.  An actual peasant would likely wear more muted clothing — violet shirts wouldn’t be in their wardrobe.  The mini ended up with earthy, autumn-inspired tones."
 msgstr "Впервые я решил не придерживаться цветов, указанных на карточке, так как они были слишком яркими. Настоящий крестьянин, скорее всего, носил бы более приглушённую одежду — фиолетовые рубашки точно не вписались бы в его гардероб. Миниатюра в итоге переобрела земляные тона с осенним вдохновением."
 
-#. type: Title ###
-#: docs/posts/peasant.md
-#, no-wrap
-msgid "The Process"
-msgstr "Процесс"
-
 #. type: Plain text
 #: docs/posts/peasant.md
 msgid "I used a flat brown for the base of the trousers, pitchfork, and cap, but this wasn’t the best choice.  Follwing my wife's suggestion, I brightened the trousers and cap with a bit of orange, while darkening the pitchfork handle."
@@ -130,12 +138,6 @@ msgstr "Рубашка и земля оказались слишком похо�
 #: docs/posts/peasant.md
 msgid "The pitchfork was painted with gunmetal, with silver edges, and a touch of black ink to tone down the shine.  To give the peasant a dirtier look, I used watered-down Dreadful Visage contrast paint as a wash."
 msgstr "Вилы были покрашены металлическим серым цветом (gunmetal) с серебряными краями и добавлением немного черного чернила, чтобы приглушить блеск. А чтобы придать крестьянину более грязный вид, я использовал разбавленную краску контраста Dreadful Visage в качестве wash."
-
-#. type: Title ###
-#: docs/posts/peasant.md
-#, no-wrap
-msgid "Conclusion"
-msgstr "Вывод"
 
 #. type: Plain text
 #: docs/posts/peasant.md

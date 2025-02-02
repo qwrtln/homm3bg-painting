@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-02-02 17:15+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/boar.md
+#, no-wrap
+msgid "2025-02-02"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/boar.md
+#, no-wrap
+msgid "First mini with a large 5 cm base."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/boar.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/boar-1.webp"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/boar.md
+#, no-wrap
+msgid "Boar"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/dzik/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/кабан/)</small>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"My first mini with a large 5 cm base.  I kept falling into the \"just one "
+"more brush stroke\" trap."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"![boar front](../assets/images/boar-1.webp)  ![boar back](../assets/images/"
+"boar-4.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid ""
+"<div style=\"display: flex\">\n"
+"  <a href=\"/assets/images/boar-1.webp\" style=\"flex: 50; padding-top: 10px\"><img src=\"/assets/images/boar-1.webp\" style=\"width: 100%\" /></a>\n"
+"  <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"flex: 50; width: 100%\" />\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/boar.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid "See Boars on the [Wiki](https://homm3bg.wiki/units/boars)."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"Despite my efforts, matching the original colors was nearly impossible, "
+"especially for the animal's fur.  One must master the dry-brush technique on "
+"simpler subjects before attempting more formidable creatures like dragons."
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"I started with the base colors (though skipping some details like the "
+"beast's fangs) without planning the entire process."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"![boar base](../assets/images/boar-base.webp)  /// caption Base colors with "
+"zenithal priming visible on the base ///"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"I purposefully made the fur dark (brown + black) to create contrast with the "
+"orange highlights added later.  After initial attempts, I abandoned the "
+"black lowlights as the results were underwhelming.  The second layer was "
+"painted with orange + brown to match the card's color, and the final "
+"highlights were applied using dry-brushing with pure orange."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"What remained were the facial details of both beast and rider, proper "
+"highlights for the goblin's skin, edge highlights on the saddle, and armor "
+"details.  With so many similar colors, choosing the appropriate pallette was "
+"challenging."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"The base is painted in desert tan with Agrax Earthshade in the recesses.  "
+"The stones are black with a touch of blue for a slight grey appearance."
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"I shouldn't hesitate to use stronger highlights.  Additionally, "
+"distinguishing between similar colors should be planned before starting the "
+"project."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md
+msgid ""
+"Having a wife who is a designer is invaluable - she helps me break through "
+"creative blocks."
+msgstr ""

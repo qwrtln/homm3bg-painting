@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-30 23:51+0100\n"
+"POT-Creation-Date: 2025-02-02 16:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,37 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/peasant.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: date
 #: docs/posts/peasant.md
@@ -32,24 +63,6 @@ msgstr ""
 #: docs/posts/peasant.md
 #, no-wrap
 msgid "https://paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/troll.md
-#, no-wrap
-msgid "Neutrals"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/peasant.md docs/posts/rogue.md
-#, no-wrap
-msgid "Bronze"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/peasant.md docs/posts/troll.md
-#, no-wrap
-msgid "Dry-brush"
 msgstr ""
 
 #. type: Yaml Front Matter Array Element: tags
@@ -114,12 +127,6 @@ msgid ""
 "autumn-inspired tones."
 msgstr ""
 
-#. type: Title ###
-#: docs/posts/peasant.md
-#, no-wrap
-msgid "The Process"
-msgstr ""
-
 #. type: Plain text
 #: docs/posts/peasant.md
 msgid ""
@@ -144,12 +151,6 @@ msgid ""
 "The pitchfork was painted with gunmetal, with silver edges, and a touch of "
 "black ink to tone down the shine.  To give the peasant a dirtier look, I "
 "used watered-down Dreadful Visage contrast paint as a wash."
-msgstr ""
-
-#. type: Title ###
-#: docs/posts/peasant.md
-#, no-wrap
-msgid "Conclusion"
 msgstr ""
 
 #. type: Plain text
