@@ -1,0 +1,248 @@
+# Russian translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-02-05 14:55+0100\n"
+"PO-Revision-Date: 2025-02-05 14:00+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Нейтральные"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#, no-wrap
+msgid "The Process"
+msgstr "Процесс"
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Вывод"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/mummy.md
+#, no-wrap
+msgid "2025-02-05"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/mummy.md
+#, no-wrap
+msgid "Ever felt like painting your own rendition of Iron Maiden's Eddie?"
+msgstr "Нарисовать собственную версию Эдди из Iron Maiden."
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/mummy.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/mummy-front.webp"
+msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/mummy-front.webp"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/mummy.md
+#, no-wrap
+msgid "Silver"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/mummy.md
+#, no-wrap
+msgid "Mummy"
+msgstr "Мумия"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/mumia/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/мумия/)</small>\n"
+msgstr "<small>Читайте на другом языке: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/02/mummy/) [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/mumia/)</small>\n"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "Painting this mini reminded me of [Eddie](https://en.wikipedia.org/wiki/Eddie_(Iron_Maiden)), Iron Maiden's mascot in their Powerslave album."
+msgstr "Покраска этой миниатюры напомнила мне [Эдди](https://ru.wikipedia.org/wiki/Эдди_(Iron_Maiden)), маскот Iron Maiden из альбома Powerslave."
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "![mummy front](../assets/images/mummy-front.webp)  ![mummy back](../assets/images/mummy-back.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/mummy.md
+#, no-wrap
+msgid ""
+"<div style=\"display: flex; min-width: 100%\">\n"
+"  <a href=\"/assets/images/mummy-front.webp\" style=\"width: 50%; padding-top: 10px\"><img src=\"/assets/images/mummy-front.webp\" style=\"width: 100%\" /></a>\n"
+"  <img src=\"/assets/images/raw/mummy-card.webp\" style=\"width: 50%\" />\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/mummy.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/mummy.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Нажмите, чтобы посмотреть видео с распаковки</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/mummy.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "See Mummies on the [Wiki](https://homm3bg.wiki/units/mummies)."
+msgstr "Посмотрите Мумии на [Вики](https://homm3bg.wiki/units/mummies)."
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "The lighting in these miniature photos has a yellow tint due to experimental lighting setup.  It will only get better."
+msgstr "Освещение на этих фотографиях имеет желтоватый оттенок из-за экспериментальной настройки света. Со временем будет лучше."
+
+#. type: Title ###
+#: docs/posts/mummy.md
+#, no-wrap
+msgid "The Plan"
+msgstr "План"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "As usual, I start with zenithal priming:"
+msgstr "Как обычно, начинаю с зенитального грунтования:"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "Black spray all-around the mini in short gusts"
+msgstr "Короткие распыления черного спрея вокруг миниатюры"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "2-3 even shorter gusts of white"
+msgstr "2-3 еще более коротких распыления белым"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "Areas hard to reach with a brush become visible"
+msgstr "Труднодоступные для кисти места становятся видимыми"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "![mummy primed](../assets/images/raw/mummy-primed.webp)  /// caption I finally learned how to spray both economically and effectively ///"
+msgstr ""
+"![mummy primed](../assets/images/raw/mummy-primed.webp)\n"
+"/// caption\n"
+"Я наконец научился распылять краску экономно и эффективно\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "The card art shows clear resemblance to Ancient Egypt and pharaohs, calling for sand-like tones with hints of nobility."
+msgstr "Изображение на карте явно напоминает Древний Египет и фараонов, передавая песчаные оттенки с благородными акцентами."
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "![mummy palette](../assets/images/raw/mummy-palette.webp)  /// caption Initial palette choice ///"
+msgstr ""
+"![mummy palette](../assets/images/raw/mummy-palette.webp)\n"
+"/// caption\n"
+"Начальный выбор палитры\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "![mummy colors](../assets/images/raw/mummy-colors.webp)  /// caption Mixing up base color for those venerable bandages ///"
+msgstr ""
+"![mummy colors](../assets/images/raw/mummy-colors.webp)\n"
+"/// caption\n"
+"Смешивание базового цвета для почтенных бинтов\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "Starting with the bandages proved straightforward."
+msgstr "Начать с бинтов оказалось несложно."
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "![mummy base](../assets/images/raw/mummy-base.webp)  /// caption Base color needs a second coat for full coverage ///"
+msgstr ""
+"![mummy base](../assets/images/raw/mummy-base.webp)\n"
+"/// caption\n"
+"Базовый цвет требует второго слоя для полного покрытия\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "Protruding bandages make natural highlight targets.  The forgiving texture allows room for brush imprecision."
+msgstr "Выступающие бинты служат естественными местами для хайлайтов. Достаточно податливая текстура прощает неточности движений кисти."
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "Metallics presented the main challenge, particularly the scepter.  While reference colors appear similar, available paints required adaptation:"
+msgstr "Металлические элементы представляли главную сложность, особенно скипетр. Хотя цвета на изображении кажутся похожими, доступные краски требовали некоторой креативности:"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "Applied thin gold metallic over brown base for subtle shine"
+msgstr "Нанёс тонкий слой золотого металлика по коричневой базе для получения тонкого блеска"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "Pure gold metallic for remaining metallic areas"
+msgstr "Чистый золотой металлик для остальных металлических участков"
+
+#. type: Plain text
+#: docs/posts/mummy.md
+msgid "Key learnings:"
+msgstr "Ключевые выводы"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "Gold metallic requires dedicated base layer for proper coverage"
+msgstr "Золотой металлик требует правильного базового слоя для нормального покрытия"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "Reference colors deserve more literal interpretation"
+msgstr "Цвета на изображении заслуживают более буквальной интерпретации"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "Snake head tip could benefit from white and orange reflections instead of uniform brown"
+msgstr "Кончик головы змеи смотрелся бы лучше с белыми и оранжевыми высветлениями вместо однородного коричневого"
+
+#. type: Bullet: ' - '
+#: docs/posts/mummy.md
+msgid "Remember: we're creating an illusion of reality"
+msgstr "Нужно помнить: мы создаём иллюзию реальности, а не саму реальность"

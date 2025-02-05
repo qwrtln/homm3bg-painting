@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-02 16:16+0100\n"
+"POT-Creation-Date: 2025-02-05 14:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,8 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
-#: docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md docs/posts/troll.md
 #, no-wrap
 msgid "Neutrals"
 msgstr ""
@@ -30,21 +30,28 @@ msgid "Bronze"
 msgstr ""
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/peasant.md docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/troll.md
 #, no-wrap
 msgid "Dry-brush"
 msgstr ""
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/peasant.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
 #, no-wrap
 msgid "The Process"
 msgstr ""
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/peasant.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
 #, no-wrap
 msgid "Conclusion"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: date
@@ -63,12 +70,6 @@ msgstr ""
 #: docs/posts/peasant.md
 #, no-wrap
 msgid "https://paint-h3.qwrtln.nl/assets/images/peasant_front.webp"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/peasant.md docs/posts/rogue.md
-#, no-wrap
-msgid "Metallics"
 msgstr ""
 
 #. type: Title #
