@@ -1,0 +1,383 @@
+# Polish translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-02-15 21:37+0100\n"
+"PO-Revision-Date: 2025-02-15 20:37+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md docs/posts/rust-dragon.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Neutralne"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
+#, no-wrap
+msgid "Dry-brush"
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "The Process"
+msgstr "Proces"
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Wniosek"
+
+#. type: Title ###
+#: docs/posts/mummy.md docs/posts/rust-dragon.md
+#, no-wrap
+msgid "The Plan"
+msgstr "Plan"
+
+#. type: Plain text
+#: docs/posts/mummy.md docs/posts/rust-dragon.md
+msgid "Key learnings:"
+msgstr "Kluczowe lekcje:"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "2025-02-16"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "The second mightiest creature in the game"
+msgstr "Druga najpotężniejsza istota w grze"
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/rust-dragon-front.webp"
+msgstr "https://pl.paint-h3.qwrtln.nl/assets/images/rust-dragon-front.webp"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Azure"
+msgstr "Błękitne"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Glow"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Rust Dragon"
+msgstr "Rdzawy Smok"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/rdzawy-smok/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/ржавый-дракон/)</small>\n"
+msgstr "<small>Czytaj w innym języku: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/02/rust-dragon/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/ржавый-дракон/)</small>\n"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "While Rust Dragons ranked as the third strongest unit in the video game, their position was swapped with Crystal Dragons in the board game version."
+msgstr "Rdzawe Smoki to trzecia najsilniejsza jednostka w grze wideo. Ich miejsce zostało zamienione z Kryształowymi Smokami w wersji planszowej."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![dragon front](../assets/images/rust-dragon/processed/1.webp)  ![dragon front 2](../assets/images/rust-dragon/processed/3.webp)  ![dragon back](../assets/images/rust-dragon/processed/4.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid ""
+"<div style=\"display: flex; min-width: 100%; align-items: center\">\n"
+"  <a href=\"/assets/images/rust-dragon/processed/2.webp\" style=\"width: 55%\"><img src=\"/assets/images/rust-dragon/processed/2.webp\" style=\"width: 100%\" /></a>\n"
+"  <img src=\"/assets/images/raw/rust-dragon-card.webp\" style=\"width: 45%\" />\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/rust-dragon.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Kliknij, aby zobaczyć wideo z rozpakowywania</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/rust-dragon.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "See Rust Dragons on the [Wiki](https://homm3bg.wiki/units/rust_dragons)."
+msgstr "Zobacz Rdzawe Smoki na [Wiki](https://homm3bg.wiki/pl/units/rust_dragons)."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "This miniature is significantly larger than most others, so it requires a customized approach.  First, I'll cover the large areas of the same color using a cat tongue brush, and then I'll move on to the details."
+msgstr "Ta figurka jest znacznie większa niż większość pozostałych, więc wymaga zindywidualizowanego podejścia. Najpierw pokryję duże obszary tego samego koloru używając pędzla typu 'koci jęzk', a następnie przejdę do szczegółów."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "Looking at the reference card, the dragon has orange scales.  A mix of orange with a splash of brown should make a good base color."
+msgstr "Patrząc na obrazek na karcie, smok ma pomarańczowe łuski. Mieszanka pomarańczowego z odrobiną brązowego powinna dać dobry kolor bazowy."
+
+#. type: Title ####
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Scales"
+msgstr "Łuski"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "I covered the entire dragon's body using a large cat tongue brush."
+msgstr "Pokryłem całe ciało smoka używając dużego pędzla typu 'koci język'."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![base thin](../assets/images/rust-dragon/rust-dragon-01.webp)  /// caption The color is weak, it will require multiple coats.  ///"
+msgstr ""
+"![base thin](../assets/images/rust-dragon/rust-dragon-01.webp)\n"
+"/// caption\n"
+"Kolor jest słaby, będzie wymagał kilku warstw.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "Apply as many layers as needed for full coverage."
+msgstr "Nałóż tyle warstw, ile potrzeba do pełnego krycia."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![base thick](../assets/images/rust-dragon/rust-dragon-02.webp)  /// caption Several layers later.  ///"
+msgstr ""
+"![base thick](../assets/images/rust-dragon/rust-dragon-02.webp)\n"
+"/// caption\n"
+"Kilka warstw później.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "Finish with a matching wash to darken the recesses between the scales."
+msgstr "Zakończ odpowiednim wash'em, aby przyciemnić zagłębienia między łuskami."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![base washed](../assets/images/rust-dragon/rust-dragon-03.webp)  /// caption Reikland Fleshshade wash works its magic.  ///"
+msgstr ""
+"![base washed](../assets/images/rust-dragon/rust-dragon-03.webp)\n"
+"/// caption\n"
+"Wash Reikland Fleshshade robi swoje.\n"
+"///"
+
+#. type: Title ####
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Wings"
+msgstr "Skrzydła"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "The wings need a brighter color with gradient-like transitions around the bone structure.  First, I covered the areas not directly adjacent to the dragon's body."
+msgstr "Skrzydła potrzebują jaśniejszego koloru z gradientowymi przejściami wokół struktury kostnej. Najpierw pokryłem obszary nie przylegające bezpośrednio do ciała smoka."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-04.webp)  /// caption Base layer for the wings.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-04.webp)\n"
+"/// caption\n"
+"Warstwa bazowa na skrzydłach.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-07.webp)  /// caption More coats with darker edges.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-07.webp)\n"
+"/// caption\n"
+"Więcej warstw z ciemniejszymi krawędziami.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "At this stage, I realized it would be better to cover all the wings with the same color and use glazing around the bone structure.  However, not all is lost.  Highlights will give the wings more volume, and the transitions can still be smoothed out."
+msgstr "Na tym etapie zdałem sobie sprawę, że lepiej byłoby pokryć całe skrzydła tym samym kolorem i użyć glaze'a wokół struktury kostnej. Jednak nie wszystko stracone. *Highlighty* nadadzą skrzydłom nieco objętości, a przejścia nadal można wygładzić."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-08.webp)  /// caption Initial wing highlights.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-08.webp)\n"
+"/// caption\n"
+"Początkowe highlighty na skrzydłach.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-09.webp)  /// caption Inner highlights.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-09.webp)\n"
+"/// caption\n"
+"Wewnętrzne highlighty.\n"
+"///"
+
+#. type: Title ####
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Claws"
+msgstr "Pazury"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "The claws are relatively straightforward to paint.  I'll add weathering and highlights in a later stage."
+msgstr "Pazury są stosunkowo łatwe do malowania. Dodam ślady zębu czasu i highlight na późniejszym etapie."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-10.webp)  /// caption I left the head unpainted to focus on it later.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-10.webp)\n"
+"/// caption\n"
+"Zostawiłem głowę niepomalowaną, aby zająć się nią później.\n"
+"///"
+
+#. type: Title ####
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Base"
+msgstr "Podstawka"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "The base for this miniature is quite complex.  It features a building-like structure, earth, stones, skulls, and snow in the reference picture.  I started with the building."
+msgstr "Podstawa tej miniatury jest dość złożona. Na obrazku karty znajduje się konstrukcja przypominająca budynek, ziemia, kamienie, czaszki i śnieg. Zacząłem od budynku."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-14.webp)  /// caption Applied grey with a hint of blue, azure around the edges, and dry-brushed white for texture.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-14.webp)\n"
+"/// caption\n"
+"Nałożyłem szary z odrobiną niebieskiego, błękitny wokół krawędzi, i dry-brush bielą dla tekstury.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-15.webp)  /// caption Both sides need careful dry-brushing.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-15.webp)\n"
+"/// caption\n"
+"Obie strony wymagają starannego dry-brusha.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-17.webp)  /// caption The stones in the back were painted without the blue tint.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-17.webp)\n"
+"/// caption\n"
+"Kamienie z tyłu zostały pomalowane bez niebieskiego odcienia.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "For the ground, I chose a mud-like color with patches of melting snow.  I used AK's Ice Sparkles for the snow effect."
+msgstr "Dla podłoża wybrałem kolor przypominający błoto z płatami topniejącego śniegu. Do efektu śniegu użyłem Ice Sparkles od AK."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-19.webp)  /// caption Earth with patches of melting snow.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-19.webp)\n"
+"/// caption\n"
+"Ziemia z płatami topniejącego śniegu.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-20.webp)  /// caption Skulls of unfortunate adventurers inside.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-20.webp)\n"
+"/// caption\n"
+"Czaszki niefortunnych poszukiwaczy przygód w środku.\n"
+"///"
+
+#. type: Title ####
+#: docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Head"
+msgstr "Łeb"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "The head is the focal point of the miniature, so its details and highlights should be the most prominent.  I carefully painted the beast's snout, applied the strongest highlights, and added a glow effect to the eyes."
+msgstr "Łeb to najważniejszy punkt miniatury, więc jego detale i highlighty powinny być najbardziej wyraziste. Starannie pomalowałem pysk bestii, nałożyłem najmocniejsze highlighty i dodałem efekt świecenia do oczu."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-23.webp)  /// caption Snout with glowing eyes.  ///"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-23.webp)\n"
+"/// caption\n"
+"Pysk ze świecącymi oczami.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "Finally, I painted the head's spikes.  I achieved the weathering effect using Agrax Earthshade wash, which I then applied to all the remaining thorns."
+msgstr "Na końcu pomalowałem kolce na głowie. Efekt postarzenia uzyskałem przy pomocy wash Agrax Earthshade, który następnie nałożyłem na wszystkie pozostałe ciernie."
+
+#. type: Plain text
+#: docs/posts/rust-dragon.md
+msgid "![](../assets/images/rust-dragon/rust-dragon-25.webp)  /// caption Weathered thorns complete the miniature.  ///"
+msgstr "![](../assets/images/rust-dragon/rust-dragon-25.webp)\n"
+"/// caption\n"
+"Postarzałe kolce dopełniają miniaturę.\n"
+"///"
+
+#. type: Bullet: ' - '
+#: docs/posts/rust-dragon.md
+msgid "Use a cat tongue brush for large surfaces to save time"
+msgstr "Używaj pędzla typu 'koci język' do dużych powierzchni, aby zaoszczędzić czas"
+
+#. type: Bullet: ' - '
+#: docs/posts/rust-dragon.md
+msgid "Painting eyes is manageable with the right brush"
+msgstr "Malowanie oczu jest wykonalne przy odpowiednim pędzlu"
+
+#. type: Bullet: ' - '
+#: docs/posts/rust-dragon.md
+msgid "Creating gradient transitions is easier with glazing than by hand"
+msgstr "Tworzenie przejść gradientowych jest łatwiejsze przy użyciu *glaze* niż ręcznie"
+
+#. type: Bullet: ' - '
+#: docs/posts/rust-dragon.md
+msgid "Designer wife is gold, but friends letting you try some gear you haven't bought yet, that's silver"
+msgstr "Żona-projektantka to złoto, ale przyjaciele pozwalający wypróbować sprzęt, którego jeszcze nie kupiłeś, to srebro"
