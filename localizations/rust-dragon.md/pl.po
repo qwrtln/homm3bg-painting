@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-15 21:37+0100\n"
+"POT-Creation-Date: 2025-02-15 22:04+0100\n"
 "PO-Revision-Date: 2025-02-15 20:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -58,7 +58,7 @@ msgstr "Kluczowe lekcje:"
 #. type: Yaml Front Matter Hash Value: date
 #: docs/posts/rust-dragon.md
 #, no-wrap
-msgid "2025-02-16"
+msgid "2025-02-15"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -357,7 +357,8 @@ msgstr "Na końcu pomalowałem kolce na głowie. Efekt postarzenia uzyskałem pr
 #. type: Plain text
 #: docs/posts/rust-dragon.md
 msgid "![](../assets/images/rust-dragon/rust-dragon-25.webp)  /// caption Weathered thorns complete the miniature.  ///"
-msgstr "![](../assets/images/rust-dragon/rust-dragon-25.webp)\n"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-25.webp)\n"
 "/// caption\n"
 "Postarzałe kolce dopełniają miniaturę.\n"
 "///"

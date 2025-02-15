@@ -1,5 +1,5 @@
 ---
-date: 2025-02-16
+date: 2025-02-15
 title: "Rust Dragon"
 description: "The second mightiest creature in the game"
 image: "https://paint-h3.qwrtln.nl/assets/images/rust-dragon-front.webp"

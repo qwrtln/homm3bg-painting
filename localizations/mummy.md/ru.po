@@ -225,7 +225,7 @@ msgstr "Чистый золотой металлик для остальных �
 #. type: Plain text
 #: docs/posts/mummy.md
 msgid "Key learnings:"
-msgstr "Ключевые выводы"
+msgstr "Ключевые выводы:"
 
 #. type: Bullet: ' - '
 #: docs/posts/mummy.md

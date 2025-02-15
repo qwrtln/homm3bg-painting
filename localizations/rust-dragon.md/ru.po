@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-15 21:37+0100\n"
+"POT-Creation-Date: 2025-02-15 22:04+0100\n"
 "PO-Revision-Date: 2025-02-15 21:04+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -53,12 +53,12 @@ msgstr "План"
 #. type: Plain text
 #: docs/posts/mummy.md docs/posts/rust-dragon.md
 msgid "Key learnings:"
-msgstr "Ключевые выводы"
+msgstr "Ключевые выводы:"
 
 #. type: Yaml Front Matter Hash Value: date
 #: docs/posts/rust-dragon.md
 #, no-wrap
-msgid "2025-02-16"
+msgid "2025-02-15"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -171,7 +171,7 @@ msgstr ""
 #. type: Plain text
 #: docs/posts/rust-dragon.md
 msgid "Apply as many layers as needed for full coverage."
-msgstr ""
+msgstr "Нанесите столько слоев, сколько необходимо для полного покрытия."
 
 #. type: Plain text
 #: docs/posts/rust-dragon.md
@@ -262,10 +262,11 @@ msgstr "Когти относительно просто покрасить. С�
 #. type: Plain text
 #: docs/posts/rust-dragon.md
 msgid "![](../assets/images/rust-dragon/rust-dragon-10.webp)  /// caption I left the head unpainted to focus on it later.  ///"
-msgstr "![](../assets/images/rust-dragon/rust-dragon-10.webp)\n"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-10.webp)\n"
 "/// caption\n"
 "Я оставил голову неокрашенной, чтобы заняться ею позже.\n"
-"///"`
+"///"
 
 #. type: Title ####
 #: docs/posts/rust-dragon.md
@@ -356,7 +357,8 @@ msgstr "Наконец я покрасил шипы на голове. Эффе�
 #. type: Plain text
 #: docs/posts/rust-dragon.md
 msgid "![](../assets/images/rust-dragon/rust-dragon-25.webp)  /// caption Weathered thorns complete the miniature.  ///"
-msgstr "![](../assets/images/rust-dragon/rust-dragon-25.webp)\n"
+msgstr ""
+"![](../assets/images/rust-dragon/rust-dragon-25.webp)\n"
 "/// caption\n"
 "Состаренные шипы завершают миниатюру.\n"
 "///"
