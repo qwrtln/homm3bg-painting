@@ -141,7 +141,7 @@ msgstr "Посмотрите Ржавых Драконов на [Вики](https
 #. type: Plain text
 #: docs/posts/rust-dragon.md
 msgid "This miniature is significantly larger than most others, so it requires a customized approach.  First, I'll cover the large areas of the same color using a cat tongue brush, and then I'll move on to the details."
-msgstr "Эта миниатюра значительно больше большинства других, поэтому требует особого подхода. Сначала я покрою большие области одного цвета кистью 'кошачий язычок', а затем перейду к деталям."
+msgstr "Эта миниатюра значительно крупнее большинства других, поэтому требует особого подхода. Сначала я покрою большие области одного цвета кистью 'кошачий язычок', а затем перейду к деталям."
 
 #. type: Plain text
 #: docs/posts/rust-dragon.md

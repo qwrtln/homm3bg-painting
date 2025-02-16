@@ -352,7 +352,7 @@ msgstr ""
 #. type: Plain text
 #: docs/posts/rust-dragon.md
 msgid "Finally, I painted the head's spikes.  I achieved the weathering effect using Agrax Earthshade wash, which I then applied to all the remaining thorns."
-msgstr "Na końcu pomalowałem kolce na głowie. Efekt postarzenia uzyskałem przy pomocy wash Agrax Earthshade, który następnie nałożyłem na wszystkie pozostałe ciernie."
+msgstr "Na końcu pomalowałem kolce na głowie. Efekt postarzenia uzyskałem przy pomocy wash Agrax Earthshade, który następnie nałożyłem na wszystkie pozostałe szpony."
 
 #. type: Plain text
 #: docs/posts/rust-dragon.md

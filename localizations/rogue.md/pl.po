@@ -71,7 +71,7 @@ msgstr ""
 #. type: Plain text
 #: docs/posts/rogue.md
 msgid "My first ever painted Heroes mini.  Overall, very happy with the result.  I like how the shading and highlhting turned out, especially the cloak, boots, trousers, and even the face.  That said, you can see beginner's unsteady hand in the metallic details.  The base ended up a bit too glossy as well — probably from overusing the wash."
-msgstr "Moja pierwsza pomalowana herosowa figurka. Na ogół jestem zadowolony z rezultatu. W szczególności podobają mi się cienie i rozjaśnienia na pelerynie, butach, spodniach, a nawet na twarzy. Widać jednak, że przy metalicznych detalach ręka początkującego jeszcze trochę drży. Podstawka też wyszła zbyt błyszcząca – pewnie przez nadużycie *wash*a."
+msgstr "Moja pierwsza pomalowana herosowa figurka. Na ogół jestem zadowolony z rezultatu. W szczególności podobają mi się cienie i rozjaśnienia na pelerynie, butach, spodniach, a nawet na twarzy. Widać jednak, że przy metalicznych detalach ręka początkującego jeszcze trochę drży. Podstawka też wyszła zbyt błyszcząca – pewnie przez nadużycie (albo złe wymieszanie) *wash*a."
 
 #. type: Plain text
 #: docs/posts/rogue.md
