@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-15 22:04+0100\n"
+"POT-Creation-Date: 2025-02-16 08:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,7 +70,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: image
 #: docs/posts/rust-dragon.md
 #, no-wrap
-msgid "https://paint-h3.qwrtln.nl/assets/images/rust-dragon-front.webp"
+msgid "https://paint-h3.qwrtln.nl/assets/images/rust-dragon/processed/1.webp"
 msgstr ""
 
 #. type: Yaml Front Matter Array Element: tags
