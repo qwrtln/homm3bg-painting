@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-21 12:14+0100\n"
+"POT-Creation-Date: 2025-02-21 12:41+0100\n"
 "PO-Revision-Date: 2025-02-21 12:14+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -61,6 +61,12 @@ msgstr ""
 #, no-wrap
 msgid "Halfling"
 msgstr "Полурослик"
+
+#. type: Plain text
+#: docs/posts/halfling.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/niziołek/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/полурослик/)</small>\n"
+msgstr "<small>Читайте на другом языке: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/02/halfling/) [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/niziołek/)</small>\n"
 
 #. type: Plain text
 #: docs/posts/halfling.md

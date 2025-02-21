@@ -9,6 +9,7 @@ tags:
   - Metallics
 ---
 # Halfling
+<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/niziołek/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/полурослик/)</small>
 
 A tiny but challenging miniature to paint.
 
