@@ -1,0 +1,109 @@
+# Polish translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-02-21 12:14+0100\n"
+"PO-Revision-Date: 2025-02-21 12:14+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/halfling.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/rust-dragon.md
+#: docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Neutralne"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/halfling.md docs/posts/peasant.md
+#: docs/posts/rogue.md
+#, no-wrap
+msgid "Bronze"
+msgstr "Brązowe"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/halfling.md
+#, no-wrap
+msgid "2025-02-21"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/halfling.md
+#, no-wrap
+msgid "The diminutive Frodo no one wants to paint."
+msgstr "Niepozorny Frodo, którego nikt nie chce malować."
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/halfling.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/halfling/halfling.webp"
+msgstr "https://pl.paint-h3.qwrtln.nl/assets/images/halfling/halfling.webp"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/halfling.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/halfling.md
+#, no-wrap
+msgid "Halfling"
+msgstr "Niziołek"
+
+#. type: Plain text
+#: docs/posts/halfling.md
+msgid "A tiny but challenging miniature to paint."
+msgstr "Mała, ale wymagająca figurka do malowania."
+
+#. type: Plain text
+#: docs/posts/halfling.md
+msgid "![Halfling front](../assets/images/halfling/halfling-front.webp)  ![Halfling back](../assets/images/halfling/halfling-back.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/halfling.md
+#, no-wrap
+msgid ""
+"<div style=\"display: flex; min-width: 100%\">\n"
+"  <a href=\"/assets/images/halfling/halfling.webp\" style=\"width: 50%; padding-top: 20px\"><img src=\"/assets/images/halfling/halfling.webp\" style=\"width: 100%\" /></a>\n"
+"  <img src=\"/assets/images/halfling/card.webp\" style=\"width: 50%\" />\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/halfling.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/halfling.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Kliknij, aby zobaczyć wideo z rozpakowywania</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/halfling.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Plain text
+#: docs/posts/halfling.md
+msgid "All the details are painted reasonably well.  The face, on the other hand, is in a league of its own, which my skills can't match up to.  The eyes could obviously be improved, but I'd rather leave them as they are, so that I can compare them with my future work and see the progress."
+msgstr "Wszystkie detale są namalowane całkiem dobrze. Twarz, z drugiej strony, jest w zupełnie innej lidze, której moje umiejętności nie dorównują. Oczy oczywiście mogłyby być lepsze, ale wolę zostawić je takimi, jakie są, żebym mógł porównać je z moimi przyszłymi malowaniami i zobaczyć postęp."
+
+#. type: Plain text
+#: docs/posts/halfling.md
+msgid "See Halflings on the [Wiki](https://homm3bg.wiki/units/halflings)."
+msgstr "Zobacz Niziołki na [Wiki](https://homm3bg.wiki/pl/units/halflings)."

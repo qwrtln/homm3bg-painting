@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-05 14:55+0100\n"
+"POT-Creation-Date: 2025-02-21 12:14+0100\n"
 "PO-Revision-Date: 2025-02-05 14:00+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,30 +17,40 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
-#: docs/posts/rogue.md docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/halfling.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/rust-dragon.md
+#: docs/posts/troll.md
 #, no-wrap
 msgid "Neutrals"
 msgstr "Нейтральные"
 
 #. type: Yaml Front Matter Array Element: tags
 #: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
-#: docs/posts/troll.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
 #, no-wrap
 msgid "Dry-brush"
 msgstr ""
 
 #. type: Title ###
 #: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md
 #, no-wrap
 msgid "The Process"
 msgstr "Процесс"
 
 #. type: Title ###
 #: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md
 #, no-wrap
 msgid "Conclusion"
 msgstr "Вывод"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/halfling.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: date
 #: docs/posts/mummy.md
@@ -64,12 +74,6 @@ msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/mummy-front.webp"
 #: docs/posts/mummy.md
 #, no-wrap
 msgid "Silver"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: tags
-#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
-#, no-wrap
-msgid "Metallics"
 msgstr ""
 
 #. type: Title #
@@ -131,7 +135,7 @@ msgid "The lighting in these miniature photos has a yellow tint due to experimen
 msgstr "Освещение на этих фотографиях имеет желтоватый оттенок из-за экспериментальной настройки света. Со временем будет лучше."
 
 #. type: Title ###
-#: docs/posts/mummy.md
+#: docs/posts/mummy.md docs/posts/rust-dragon.md
 #, no-wrap
 msgid "The Plan"
 msgstr "План"
@@ -223,7 +227,7 @@ msgid "Pure gold metallic for remaining metallic areas"
 msgstr "Чистый золотой металлик для остальных металлических участков"
 
 #. type: Plain text
-#: docs/posts/mummy.md
+#: docs/posts/mummy.md docs/posts/rust-dragon.md
 msgid "Key learnings:"
 msgstr "Ключевые выводы:"
 
