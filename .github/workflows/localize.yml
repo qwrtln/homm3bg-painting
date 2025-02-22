@@ -42,8 +42,8 @@ jobs:
 
       - name: Install po4a
         run: |
-          sudo apt-get -q install -y po4a libsyntax-keyword-try-perl  # required as standalone po4a is missing some deps
-          wget --quiet ${{ env.PO4A_GH_URL }}/v${{ env.PO4A_VERSION }}/po4a-${{ env.PO4A_VERSION}}.tar.gz  # sadly the version from apt isn't working
+          sudo apt-get -q install -y po4a libsyntax-keyword-try-perl
+          wget --quiet ${{ env.PO4A_GH_URL }}/v${{ env.PO4A_VERSION }}/po4a-${{ env.PO4A_VERSION}}.tar.gz
           export PO4A_DIR="po4a-${{ env.PO4A_VERSION }}"
           tar -xf ${PO4A_DIR}.tar.gz
 
@@ -61,6 +61,11 @@ jobs:
             echo "Moving file: $file -> ${file::-5}md"
             mv "$file" "${file::-5}md"
           done
+
+      - name: Localize comments
+        run: |
+          mv overrides/partials/${{ matrix.language }}/comments.html overrides/partials/comments.html
+          rm -rf overrides/partials/pl overrides/partials/ru
 
       - name: Set CNAME for ${{ matrix.language }}
         run: |

@@ -4,3 +4,5 @@ docs/**/*.pl.md
 docs/**/*.ru.md
 docs/**/pl/*
 docs/**/ru/*
+overrides/partials/pl
+overrides/partials/ru

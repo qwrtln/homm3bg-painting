@@ -1,0 +1,119 @@
+# Russian translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-02-22 21:09+0100\n"
+"PO-Revision-Date: 2025-02-22 21:09+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Plain text
+#: overrides/partials/comments.html
+#, no-wrap
+msgid ""
+"{% if page.meta.comments %}\n"
+"  <h2 id=\"__comments\">{{ lang.t(\"meta.comments\") }}</h2>\n"
+"  <script src=\"https://giscus.app/client.js\"\n"
+"          data-repo=\"qwrtln/homm3bg-painting\"\n"
+"          data-repo-id=\"R_kgDONS-pgA\"\n"
+"          data-category=\"Announcements\"\n"
+"          data-category-id=\"DIC_kwDONS-pgM4CnOJG\"\n"
+"          data-mapping=\"pathname\"\n"
+"          data-strict=\"0\"\n"
+"          data-reactions-enabled=\"1\"\n"
+"          data-emit-metadata=\"0\"\n"
+"          data-input-position=\"top\"\n"
+"          data-theme=\"preferred_color_scheme\"\n"
+"          data-lang=\"en\"\n"
+"          crossorigin=\"anonymous\"\n"
+"          async>\n"
+"  </script>\n"
+msgstr ""
+"{% if page.meta.comments %}\n"
+"  <h2 id=\"__comments\">{{ lang.t(\"meta.comments\") }}</h2>\n"
+"  <script src=\"https://giscus.app/client.js\"\n"
+"          data-repo=\"qwrtln/homm3bg-painting.ru\"\n"
+"          data-repo-id=\"R_kgDONTWBzQ\"\n"
+"          data-category=\"Announcements\"\n"
+"          data-category-id=\"DIC_kwDONTWBzc4CnOJe\"\n"
+"          data-mapping=\"pathname\"\n"
+"          data-strict=\"0\"\n"
+"          data-reactions-enabled=\"1\"\n"
+"          data-emit-metadata=\"0\"\n"
+"          data-input-position=\"top\"\n"
+"          data-theme=\"preferred_color_scheme\"\n"
+"          data-lang=\"ru\"\n"
+"          crossorigin=\"anonymous\"\n"
+"          async>\n"
+"  </script>\n"
+
+#. type: Plain text
+#: overrides/partials/comments.html
+#, no-wrap
+msgid ""
+"  <!-- Synchronize Giscus theme with palette -->\n"
+"  <script>\n"
+"    var giscus = document.querySelector(\"script[src*=giscus]\")\n"
+msgstr ""
+
+#. type: Plain text
+#: overrides/partials/comments.html
+#, no-wrap
+msgid ""
+"    // Set palette on initial load\n"
+"    var palette = __md_get(\"__palette\")\n"
+"    if (palette && typeof palette.color === \"object\") {\n"
+"      var theme = palette.color.scheme === \"slate\"\n"
+"        ? \"transparent_dark\"\n"
+"        : \"light\"\n"
+msgstr ""
+
+#. type: Plain text
+#: overrides/partials/comments.html
+#, no-wrap
+msgid ""
+"      // Instruct Giscus to set theme\n"
+"      giscus.setAttribute(\"data-theme\", theme)\n"
+"    }\n"
+msgstr ""
+
+#. type: Plain text
+#: overrides/partials/comments.html
+#, no-wrap
+msgid ""
+"    // Register event handlers after documented loaded\n"
+"    document.addEventListener(\"DOMContentLoaded\", function() {\n"
+"      var ref = document.querySelector(\"[data-md-component=palette]\")\n"
+"      ref.addEventListener(\"change\", function() {\n"
+"        var palette = __md_get(\"__palette\")\n"
+"        if (palette && typeof palette.color === \"object\") {\n"
+"          var theme = palette.color.scheme === \"slate\"\n"
+"            ? \"transparent_dark\"\n"
+"            : \"light\"\n"
+msgstr ""
+
+#. type: Plain text
+#: overrides/partials/comments.html
+#, no-wrap
+msgid ""
+"          // Instruct Giscus to change theme\n"
+"          var frame = document.querySelector(\".giscus-frame\")\n"
+"          frame.contentWindow.postMessage(\n"
+"            { giscus: { setConfig: { theme } } },\n"
+"            \"https://giscus.app\"\n"
+"          )\n"
+"        }\n"
+"      })\n"
+"    })\n"
+"  </script>\n"
+"{% endif %}\n"
+msgstr ""
