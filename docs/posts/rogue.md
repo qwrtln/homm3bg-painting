@@ -7,6 +7,7 @@ tags:
   - Neutrals
   - Bronze
   - Metallics
+comments: true
 ---
 # Rogue
 
