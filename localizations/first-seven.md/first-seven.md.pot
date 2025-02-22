@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-02-22 23:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "2025-02-22"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "Lessons learned from the begining of the adventure."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/first-seven.webp"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "First Seven Minis"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/pierwsza-siódemka/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/первая-семерка/)</small>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+msgid ""
+"![first seven](../assets/images/first-seven.webp)  /// caption Even amateur "
+"painting quality is better than bare plastic.  It makes you want to play "
+"even more.  ///"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+msgid ""
+"Quick math: it took me about 3 months to paint 7 miniatures.  At this pace, "
+"painting the whole game will take roughly 3 years.  Let's see if this "
+"prediction holds true."
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+msgid "Key takeaways so far:"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - Artistry like this follows specific rules that anyone can learn.\n"
+" Following these rules will lead to decent results.\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - No need to sweat over the details or quality, as long as you're having fun.\n"
+" Time flows surprisingly fast when you're laser-focused on completing the next miniature.\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - Online video tutorials have limited value unless they demonstrate painting something very similar to your project (so far I've found [one YouTuber](https://www.youtube.com/@olebrogger/search?query=heroes) who does this).\n"
+" Most tutorial creators use premium-quality miniatures and equipment that I either can't access or don't want to invest in.\n"
+" Naturally, their tutorials wouldn't look as spectacular if they used lower-quality materials.\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - A quality paintbrush is the most crucial piece of equipment.\n"
+"While you can compromise on other materials, a poor-quality brush will limit your progress.\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - If you have a scientific mind and are new to artistic work, this hobby will challenge your brain in a positive way.\n"
+"You'll develop skills from parts of your mind that don't get much exercise normally.\n"
+"It's like the reverse of teaching a creative friend how to code.\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+msgid "I hope this helps.  Pick up that brush and see where it takes you."
+msgstr ""

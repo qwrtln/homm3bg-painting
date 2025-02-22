@@ -1,0 +1,124 @@
+# Polish translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-02-22 22:47+0100\n"
+"PO-Revision-Date: 2025-02-22 22:47+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "2025-02-22"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "Lessons learned from the begining of the adventure."
+msgstr "Wnioski wyciągnięte z początku przygody."
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/first-seven.webp"
+msgstr "https://pl.paint-h3.qwrtln.nl/assets/images/first-seven.webp"
+
+#. type: Title #
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "First Seven Minis"
+msgstr "Pierwsza Siódemka"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/pierwsza-siódemka/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/первая-семерка/)</small>\n"
+msgstr "<small>Czytaj w innym języku: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/02/first-seven-minis/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/первая-семерка/)</small>\n"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+msgid "![first seven](../assets/images/first-seven.webp)  /// caption Even amateur painting quality is better than bare plastic.  It makes you want to play even more.  ///"
+msgstr ""
+"![first seven](../assets/images/first-seven.webp)\n"
+"/// caption\n"
+"Nawet amatorskie malowanie jest lepsze niż goły plastik.\n"
+"Aż chce się grać.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+msgid "Quick math: it took me about 3 months to paint 7 miniatures.  At this pace, painting the whole game will take roughly 3 years.  Let's see if this prediction holds true."
+msgstr "Szybki rachunek: pomalowanie 7 figurek zajęło mi około 3 miesięcy. W tym tempie pomalowanie całej gry zajmie około 3 lat. Zobaczmy, czy ta prognoza się sprawdzi."
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+msgid "Key takeaways so far:"
+msgstr "Najważniejsze wnioski:"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - Artistry like this follows specific rules that anyone can learn.\n"
+" Following these rules will lead to decent results.\n"
+msgstr " - Ten rodzaj artyzmu rządzi się konkretnymi zasadami, których każdy może się nauczyć, a przestrzeganie ich prowadzi do przyzwoitych rezultatów.\n"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - No need to sweat over the details or quality, as long as you're having fun.\n"
+" Time flows surprisingly fast when you're laser-focused on completing the next miniature.\n"
+msgstr ""
+" - Nie ma co przejmować się szczegółami czy jakością, dopóki sprawia ci to przyjemność.\n"
+" Czas płynie zaskakująco szybko, gdy skupiasz się całkowicie na malowaniu kolejnej figurki.\n"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - Online video tutorials have limited value unless they demonstrate painting something very similar to your project (so far I've found [one YouTuber](https://www.youtube.com/@olebrogger/search?query=heroes) who does this).\n"
+" Most tutorial creators use premium-quality miniatures and equipment that I either can't access or don't want to invest in.\n"
+" Naturally, their tutorials wouldn't look as spectacular if they used lower-quality materials.\n"
+msgstr ""
+" - Internetowe tutoriale wideo mają ograniczoną wartość, chyba że pokazują malowanie czegoś bardzo podobnego do twojego projektu (jak dotąd znalazłem [jednego YouTubera](https://www.youtube.com/@olebrogger/search?query=heroes), który to robi).\n"
+" Większość twórców tutoriali używa wysokiej jakości figurek i sprzętu, które są dla mnie niedostępne albo nie chcę w nie inwestować.\n"
+" Oczywiście, ich tutoriale nie wyglądałyby tak spektakularnie, gdyby używali materiałów niższej jakości.\n"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - A quality paintbrush is the most crucial piece of equipment.\n"
+"While you can compromise on other materials, a poor-quality brush will limit your progress.\n"
+msgstr ""
+" - Dobrej jakości pędzel to najważniejszy element wyposażenia.\n"
+"Wprawdzie na innych materiałach można oszczędzić, niemniej jednak kiepskiej jakości pędzel ograniczy twoje rezultaty.\n"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+#, no-wrap
+msgid ""
+" - If you have a scientific mind and are new to artistic work, this hobby will challenge your brain in a positive way.\n"
+"You'll develop skills from parts of your mind that don't get much exercise normally.\n"
+"It's like the reverse of teaching a creative friend how to code.\n"
+msgstr ""
+" - Jeśli masz ścisły umysł i zaczynasz przygodę ze sztuką, to hobby pozytywnie pobudzi twój mózg.\n"
+"Rozwiniesz umiejętności z tych obszarów, które zazwyczaj nie są zbyt aktywne.\n"
+"Coś jak uczenie kreatywnego przyjaciela programowania, tyle że na odwrót.\n"
+
+#. type: Plain text
+#: docs/posts/first-seven.md
+msgid "I hope this helps.  Pick up that brush and see where it takes you."
+msgstr "Mam nadzieję, że pomogłem. Łap ten pędzel i zobacz, co z tego wyniknie."
