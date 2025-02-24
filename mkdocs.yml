@@ -72,6 +72,7 @@ plugins:
   - search
   - tags
   - privacy
+  - glightbox
 
 markdown_extensions:
   - admonition

@@ -17,9 +17,13 @@ Painting this mini reminded me of [Eddie](https://en.wikipedia.org/wiki/Eddie_(I
 ![mummy front](../assets/images/mummy-front.webp)
 ![mummy back](../assets/images/mummy-back.webp)
 
-<div style="display: flex; min-width: 100%">
-  <a href="/assets/images/mummy-front.webp" style="width: 50%; padding-top: 10px"><img src="/assets/images/mummy-front.webp" style="width: 100%" /></a>
-  <img src="/assets/images/raw/mummy-card.webp" style="width: 50%" />
+<div style="display: flex; min-width: 100%; align-items: center">
+  <div style="width: 50%">
+    <img src="/assets/images/mummy-front.webp" style="width: 100%; display: block; padding-top: 10px" />
+  </div>
+  <div style="width: 50%">
+    <img src="/assets/images/raw/mummy-card.webp" style="width: 100%; display: block" />
+  </div>
 </div>
 
 <details><summary>Click to see the unboxing video</summary>

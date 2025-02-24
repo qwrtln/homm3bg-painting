@@ -19,8 +19,12 @@ While Rust Dragons ranked as the third strongest unit in the video game, their p
 ![dragon back](../assets/images/rust-dragon/processed/4.webp)
 
 <div style="display: flex; min-width: 100%; align-items: center">
-  <a href="/assets/images/rust-dragon/processed/2.webp" style="width: 55%"><img src="/assets/images/rust-dragon/processed/2.webp" style="width: 100%" /></a>
-  <img src="/assets/images/raw/rust-dragon-card.webp" style="width: 45%" />
+  <div style="width: 55%">
+    <img src="/assets/images/rust-dragon/processed/2.webp" style="width: 100%; display: block" />
+  </div>
+  <div style="width: 45%">
+    <img src="/assets/images/raw/rust-dragon-card.webp" style="width: 100%; display: block" />
+  </div>
 </div>
 
 <details><summary>Click to see the unboxing video</summary>

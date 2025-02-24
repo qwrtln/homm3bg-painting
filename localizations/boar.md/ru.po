@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-02 23:02+0100\n"
+"POT-Creation-Date: 2025-02-24 14:38+0100\n"
 "PO-Revision-Date: 2025-02-02 16:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -35,20 +35,23 @@ msgid "https://paint-h3.qwrtln.nl/assets/images/boar-1.webp"
 msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/boar-1.webp"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/boar.md docs/posts/halfling.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/rust-dragon.md
 #: docs/posts/troll.md
 #, no-wrap
 msgid "Neutrals"
 msgstr "Нейтральные"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/boar.md docs/posts/halfling.md docs/posts/peasant.md
+#: docs/posts/rogue.md
 #, no-wrap
 msgid "Bronze"
 msgstr "Коричневые"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/peasant.md docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
 #, no-wrap
 msgid "Dry-brush"
 msgstr ""
@@ -79,9 +82,13 @@ msgstr ""
 #: docs/posts/boar.md
 #, no-wrap
 msgid ""
-"<div style=\"display: flex; min-width: 100%\">\n"
-"  <a href=\"/assets/images/boar-1.webp\" style=\"width: 50%; padding-top: 10px\"><img src=\"/assets/images/boar-1.webp\" style=\"width: 100%\" /></a>\n"
-"  <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"width: 50%\" />\n"
+"<div style=\"display: flex; min-width: 100%; align-items: center\">\n"
+"  <div style=\"width: 50%\">\n"
+"    <img src=\"/assets/images/boar-1.webp\" style=\"width: 100%; display: block; padding-top: 10px\" />\n"
+"  </div>\n"
+"  <div style=\"width: 50%\">\n"
+"    <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"width: 100%; display: block\" />\n"
+"  </div>\n"
 "</div>\n"
 msgstr ""
 
@@ -112,7 +119,8 @@ msgid "Despite my efforts, matching the original colors was nearly impossible, e
 msgstr "Несмотря на все мои усилия, подобрать оригинальные цвета было практически невозможно, особенно для шерсти животного. Прежде чем браться за более сложных существ вроде драконов, нужно освоить технику сухой кисти на более простых объектах."
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/peasant.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md
 #, no-wrap
 msgid "The Process"
 msgstr "Процесс"
@@ -147,7 +155,8 @@ msgid "The base is painted in desert tan with Agrax Earthshade in the recesses. 
 msgstr "Основание окрашено в пустынный бежевый цвет (desert tan) с Agrax Earthshade в углублениях. Камни чёрные с небольшим добавлением синего для создания слегка серого оттенка."
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/peasant.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md
 #, no-wrap
 msgid "Conclusion"
 msgstr "Вывод"

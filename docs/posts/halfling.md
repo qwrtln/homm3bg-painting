@@ -16,9 +16,13 @@ A tiny but challenging miniature to paint.
 ![Halfling front](../assets/images/halfling/halfling-front.webp)
 ![Halfling back](../assets/images/halfling/halfling-back.webp)
 
-<div style="display: flex; min-width: 100%">
-  <a href="/assets/images/halfling/halfling.webp" style="width: 50%; padding-top: 20px"><img src="/assets/images/halfling/halfling.webp" style="width: 100%" /></a>
-  <img src="/assets/images/halfling/card.webp" style="width: 50%" />
+<div style="display: flex; min-width: 100%; align-items: center">
+  <div style="width: 50%; padding-top: 20px">
+    <img src="/assets/images/halfling/halfling.webp" style="width: 100%; display: block" />
+  </div>
+  <div style="width: 50%">
+    <img src="/assets/images/halfling/card.webp" style="width: 100%; display: block" />
+  </div>
 </div>
 
 <details><summary>Click to see the unboxing video</summary>

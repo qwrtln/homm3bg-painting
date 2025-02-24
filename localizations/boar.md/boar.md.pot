@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-02 23:02+0100\n"
+"POT-Creation-Date: 2025-02-24 14:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,20 +35,23 @@ msgid "https://paint-h3.qwrtln.nl/assets/images/boar-1.webp"
 msgstr ""
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/boar.md docs/posts/halfling.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/rust-dragon.md
 #: docs/posts/troll.md
 #, no-wrap
 msgid "Neutrals"
 msgstr ""
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/boar.md docs/posts/halfling.md docs/posts/peasant.md
+#: docs/posts/rogue.md
 #, no-wrap
 msgid "Bronze"
 msgstr ""
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/peasant.md docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
 #, no-wrap
 msgid "Dry-brush"
 msgstr ""
@@ -83,9 +86,13 @@ msgstr ""
 #: docs/posts/boar.md
 #, no-wrap
 msgid ""
-"<div style=\"display: flex; min-width: 100%\">\n"
-"  <a href=\"/assets/images/boar-1.webp\" style=\"width: 50%; padding-top: 10px\"><img src=\"/assets/images/boar-1.webp\" style=\"width: 100%\" /></a>\n"
-"  <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"width: 50%\" />\n"
+"<div style=\"display: flex; min-width: 100%; align-items: center\">\n"
+"  <div style=\"width: 50%\">\n"
+"    <img src=\"/assets/images/boar-1.webp\" style=\"width: 100%; display: block; padding-top: 10px\" />\n"
+"  </div>\n"
+"  <div style=\"width: 50%\">\n"
+"    <img src=\"https://homm3bg.wiki/assets/units-neutral-bronze-boars.webp\" style=\"width: 100%; display: block\" />\n"
+"  </div>\n"
 "</div>\n"
 msgstr ""
 
@@ -114,7 +121,8 @@ msgid ""
 msgstr ""
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/peasant.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md
 #, no-wrap
 msgid "The Process"
 msgstr ""
@@ -160,7 +168,8 @@ msgid ""
 msgstr ""
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/peasant.md
+#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rust-dragon.md
 #, no-wrap
 msgid "Conclusion"
 msgstr ""
