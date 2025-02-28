@@ -8,6 +8,7 @@ tags:
   - Azure
   - Dry-brush
   - Glow
+comments: true
 ---
 # Rust Dragon
 <small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/rdzawy-smok/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/ржавый-дракон/)</small>

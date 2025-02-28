@@ -7,6 +7,7 @@ tags:
   - Neutrals
   - Gold
   - Metallics
+comments: true
 ---
 # Gold Golem
 <small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/złoty-golem/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/золотой-голем/)</small>
