@@ -15,6 +15,8 @@ Here's my second neutral unit.
 ![Troll front](../assets/images/troll_front.jpg)
 ![Troll back](../assets/images/troll_back.jpg)
 
+<!--more-->
+
 Green skin is supposedly easier to paint than human skin.
 Well, that crusty texture was not as straightforward (it involved some wonky dry-brushing).
 Nevertheless, those yellow-tinted highlights turned out really well.

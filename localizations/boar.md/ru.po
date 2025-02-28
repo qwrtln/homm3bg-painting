@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-24 14:38+0100\n"
+"POT-Creation-Date: 2025-02-28 11:27+0100\n"
 "PO-Revision-Date: 2025-02-02 16:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -76,6 +76,14 @@ msgstr "Моя первая попытка с миниатюрой с больш
 #. type: Plain text
 #: docs/posts/boar.md
 msgid "![boar front](../assets/images/boar-1.webp)  ![boar back](../assets/images/boar-4.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/boar.md docs/posts/first-seven.md docs/posts/halfling.md
+#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
+#, no-wrap
+msgid "<!--more-->\n"
 msgstr ""
 
 #. type: Plain text

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-24 14:32+0100\n"
+"POT-Creation-Date: 2025-02-28 11:27+0100\n"
 "PO-Revision-Date: 2025-02-21 12:14+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,6 +30,14 @@ msgstr "Нейтральные"
 #, no-wrap
 msgid "Bronze"
 msgstr "Коричневые"
+
+#. type: Plain text
+#: docs/posts/boar.md docs/posts/first-seven.md docs/posts/halfling.md
+#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
+#, no-wrap
+msgid "<!--more-->\n"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: date
 #: docs/posts/halfling.md

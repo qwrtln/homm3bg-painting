@@ -48,3 +48,13 @@ article.md-post {
   float: left;
   padding-left: 1em;
 }* } */
+
+.md-post--excerpt {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-post--excerpt .md-button {
+  margin-top: 0.5rem;
+}

@@ -18,6 +18,8 @@ Let's give this peasant some character before he ends up in the skeleton transfo
 ![peasant front](../assets/images/peasant_front.webp)
 ![peasant back](../assets/images/peasant_back.webp)
 
+<!--more-->
+
 Painting time: 4 h
 
 <details><summary>Click to see the unboxing video</summary>

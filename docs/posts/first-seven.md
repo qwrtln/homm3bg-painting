@@ -16,6 +16,8 @@ Even amateur painting quality is better than bare plastic.
 It makes you want to play even more.
 ///
 
+<!--more-->
+
 Quick math: it took me about 3 months to paint 7 miniatures.
 At this pace, painting the whole game will take roughly 3 years.
 Let's see if this prediction holds true.

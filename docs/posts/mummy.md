@@ -17,6 +17,8 @@ Painting this mini reminded me of [Eddie](https://en.wikipedia.org/wiki/Eddie_(I
 ![mummy front](../assets/images/mummy-front.webp)
 ![mummy back](../assets/images/mummy-back.webp)
 
+<!--more-->
+
 <div style="display: flex; min-width: 100%; align-items: center">
   <div style="width: 50%">
     <img src="/assets/images/mummy-front.webp" style="width: 100%; display: block; padding-top: 10px" />

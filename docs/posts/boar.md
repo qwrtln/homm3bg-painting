@@ -17,6 +17,8 @@ I kept falling into the "just one more brush stroke" trap.
 ![boar front](../assets/images/boar-1.webp)
 ![boar back](../assets/images/boar-4.webp)
 
+<!--more-->
+
 <div style="display: flex; min-width: 100%; align-items: center">
   <div style="width: 50%">
     <img src="/assets/images/boar-1.webp" style="width: 100%; display: block; padding-top: 10px" />

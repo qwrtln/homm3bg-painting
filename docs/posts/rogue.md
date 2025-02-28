@@ -16,6 +16,8 @@ I started painting neutral units to gain some experience first.
 ![Rogue front](../assets/images/rogue_front.jpeg)
 ![Rogue back](../assets/images/rogue_back.jpeg)
 
+<!--more-->
+
 My first ever painted Heroes mini.
 Overall, very happy with the result.
 I like how the shading and highlhting turned out, especially the cloak, boots, trousers, and even the face.

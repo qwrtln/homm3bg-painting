@@ -18,6 +18,8 @@ While Rust Dragons ranked as the third strongest unit in the video game, their p
 ![dragon front 2](../assets/images/rust-dragon/processed/3.webp)
 ![dragon back](../assets/images/rust-dragon/processed/4.webp)
 
+<!--more-->
+
 <div style="display: flex; min-width: 100%; align-items: center">
   <div style="width: 55%">
     <img src="/assets/images/rust-dragon/processed/2.webp" style="width: 100%; display: block" />

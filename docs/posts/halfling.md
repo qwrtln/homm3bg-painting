@@ -16,6 +16,8 @@ A tiny but challenging miniature to paint.
 ![Halfling front](../assets/images/halfling/halfling-front.webp)
 ![Halfling back](../assets/images/halfling/halfling-back.webp)
 
+<!--more-->
+
 <div style="display: flex; min-width: 100%; align-items: center">
   <div style="width: 50%; padding-top: 20px">
     <img src="/assets/images/halfling/halfling.webp" style="width: 100%; display: block" />

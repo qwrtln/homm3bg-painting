@@ -2,6 +2,12 @@
 
 LANGUAGE=$1
 
+
+if [[ -n "$(git status --porcelain)" ]]; then
+  echo "There are unstaged changes, exiting!"
+  exit 1
+fi
+
 git restore docs/
 
 find docs -name "*pl.md" -delete
