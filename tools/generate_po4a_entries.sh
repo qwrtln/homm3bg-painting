@@ -13,3 +13,5 @@ START='# PO4A TARGETS - START'
 END='# PO4A TARGETS - END'
 
 sed -i "/$START/,/$END/!b;//!d;/$START/r $temp_file" po4a.cfg
+
+po4a po4a.cfg

@@ -1,0 +1,249 @@
+# Russian translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-02-28 15:29+0100\n"
+"PO-Revision-Date: 2025-02-28 15:29+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/halfling.md
+#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Нейтральные"
+
+#. type: Plain text
+#: docs/posts/boar.md docs/posts/first-seven.md docs/posts/gold-golem.md
+#: docs/posts/halfling.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md docs/posts/rust-dragon.md docs/posts/troll.md
+#, no-wrap
+msgid "<!--more-->\n"
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rust-dragon.md
+#, no-wrap
+msgid "The Process"
+msgstr "Процесс"
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rust-dragon.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Вывод"
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/gold-golem.md
+#, no-wrap
+msgid "2025-02-28"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/gold-golem.md
+#, no-wrap
+msgid "A surprisingly fun Pharaoh to paint."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/gold-golem.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/gold-golem/gold-golem.webp"
+msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/gold-golem/gold-golem.webp"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/gold-golem.md docs/posts/troll.md
+#, no-wrap
+msgid "Gold"
+msgstr "Золотые"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/gold-golem.md docs/posts/halfling.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rogue.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
+
+#. type: Title #
+#: docs/posts/gold-golem.md
+#, no-wrap
+msgid "Gold Golem"
+msgstr "Золотой Голем"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/złoty-golem/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/02/золотой-голем/)</small>\n"
+msgstr "<small>Читайте на другом языке: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/02/gold-golem/) [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/02/złoty-golem/)</small>\n"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "Painting muscles with metallics is a very rewarding experience - the gold catches light beautifully and accentuates the sculpted physique."
+msgstr "Окрашивание мускулов металликами - очень благодарный опыт. Золото красиво улавливает свет и подчеркивает проработанную мускулатуру."
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![Gold Golem front](../assets/images/gold-golem/gold-golem-front.webp)  ![Gold Golem back](../assets/images/gold-golem/gold-golem-back.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+#, no-wrap
+msgid ""
+"<div style=\"display: flex; min-width: 100%; align-items: center\">\n"
+"  <div style=\"width: 50%; padding-top: 20px\">\n"
+"    <img src=\"/assets/images/gold-golem/gold-golem.webp\" style=\"width: 100%; display: block\" />\n"
+"  </div>\n"
+"  <div style=\"width: 50%; position: relative;\">\n"
+"    <img src=\"/assets/images/gold-golem/card.webp\" style=\"width: 100%; display: block\"/>\n"
+"    <a href=\"https://homm3bg.wiki/units/gold_golems\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; display: block;\"></a>\n"
+"  </div>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/gold-golem.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Нажмите, чтобы посмотреть видео с распаковки</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/gold-golem.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Title ###
+#: docs/posts/gold-golem.md docs/posts/mummy.md docs/posts/rust-dragon.md
+#, no-wrap
+msgid "The Plan"
+msgstr "План"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "Most of the mini will be covered with metallics, which shine on their own.  The usual zenithal priming helps bring out all the details of the mini."
+msgstr "Большая часть миниатюры будет покрыта металликами, которые сами по себе блестят. Обычный зенитальный грунт помогает выявить все детали миниатюры."
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![prime front](../assets/images/gold-golem/raw/1.webp){width=\"400px\"} ///caption The hands are too pale, but other than that all the details are clearly visible.  ///"
+msgstr ""
+"![prime front](../assets/images/gold-golem/raw/1.webp){width=\"400px\"}\n"
+"/// caption\n"
+"Руки слишком бледные, но кроме этого все детали четко видны.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![prime back](../assets/images/gold-golem/raw/2.webp){width=\"400px\"} ///caption The Pharaoh never skipped the leg day.  ///"
+msgstr ""
+"![prime back](../assets/images/gold-golem/raw/2.webp){width=\"400px\"}\n"
+"/// caption\n"
+"Этот Фараон никогда не пропускал день ног.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "I started with covering the upper body with AK's old gold, then a layer of Reikland Fleshshade to darken the recesses, and then a final layer of Vallejo's gold."
+msgstr "Я начал с покрытия верхней части тела старым золотом от AK, затем слой Reikland Fleshshade для затемнения углублений, и в конце слой золота Vallejo."
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![chest](../assets/images/gold-golem/raw/3.webp){width=\"400px\"} ///caption Those simple steps already make the golem's \"skin\" look good.  ///"
+msgstr ""
+"![chest](../assets/images/gold-golem/raw/3.webp){width=\"400px\"}\n"
+"/// caption\n"
+"Эти простые шаги уже делают \"кожу\" голема привлекательной.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![legs 1 layer](../assets/images/gold-golem/raw/4.webp){width=\"400px\"} ///caption For comparison, legs with a single layer of old gold.  ///"
+msgstr ""
+"![legs 1 layer](../assets/images/gold-golem/raw/4.webp){width=\"400px\"}\n"
+"/// caption\n"
+"Для сравнения, ноги с одним слоем старого золота.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![legs many layers](../assets/images/gold-golem/raw/6.webp){width=\"400px\"} ///caption Legs with all the layers.  ///"
+msgstr ""
+"![legs many layers](../assets/images/gold-golem/raw/6.webp){width=\"400px\"}\n"
+"/// caption\n"
+"Ноги со всеми слоями.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "With Pharaoh clothes, one needs to be very careful with the fine details.  I chose my thinnest synthetic brush for this task.  Blue with azure for highlights for one part, gold for everything else."
+msgstr "С одеждой Фараона нужно быть очень осторожным с мелкими деталями. Я выбрал свою самую тонкую синтетическую кисть для этой задачи. Синий с лазурными хайлайтами для одной части, золото для всего остального."
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![cap](../assets/images/gold-golem/raw/7.webp){width=\"400px\"} ///caption Reikland Fleshshade again for face shading, and off-white for the eyes.  ///"
+msgstr ""
+"![cap](../assets/images/gold-golem/raw/7.webp){width=\"400px\"}\n"
+"/// caption\n"
+"Снова Reikland Fleshshade для затенения лица и не совсем белый для глаз.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "For the pants, I used the same colors as for the cap, with one difference: I opted for Agrax Earthshade to give it some depth."
+msgstr "Для трусов я использовал те же цвета, что и для головного убора, с одним отличием: я выбрал Agrax Earthshade, чтобы придать им глубину."
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![pants](../assets/images/gold-golem/raw/9.webp){width=\"400px\"} ///caption With metallics, it's more difficult to make an even layer, into which wash can flow.  ///"
+msgstr ""
+"![pants](../assets/images/gold-golem/raw/9.webp){width=\"400px\"}\n"
+"/// caption\n"
+"С металликами сложнее создать ровный слой, в который может затечь ваш.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "What was left, was the sand base.  Dry-brushing and stippling helped give the sand texture and a consistent tone."
+msgstr "Осталась еще песчаная основа. Техники драй-браш и стиплинг помогли придать песку текстуру и однородный тон."
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "![final touches](../assets/images/gold-golem/raw/10.webp){width=\"400px\"} ///caption A final look helps find places to fix. Look at the collar - metallics overspilled a little.  ///"
+msgstr ""
+"![final touches](../assets/images/gold-golem/raw/10.webp){width=\"400px\"}\n"
+"/// caption\n"
+"Последний взгляд помогаетфиксировать места для исправления. Посмотрите на ворот - металлик переполнился немного.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md docs/posts/mummy.md docs/posts/rust-dragon.md
+msgid "Key learnings:"
+msgstr "Ключевые выводы:"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "- Painting with metallics is rather straightforward.  No wonder people opt for Non-Metallic Metal."
+msgstr "- Покраска металликами относительно простая. Неудивительно, что люди предпочитают подход *Non-Metallic Metal.*"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md
+msgid "- Don't use your best brushes with metallics! Natural fur gets damaged all too easily."
+msgstr "- Не используйте лучшие кисти для металликов! Натуральный мех слишком легко повреждается."

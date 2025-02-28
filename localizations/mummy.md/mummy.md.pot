@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-28 11:27+0100\n"
+"POT-Creation-Date: 2025-02-28 15:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,9 +17,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/halfling.md docs/posts/mummy.md
-#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/rust-dragon.md
-#: docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/halfling.md
+#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
 #, no-wrap
 msgid "Neutrals"
 msgstr ""
@@ -32,32 +32,43 @@ msgid "Dry-brush"
 msgstr ""
 
 #. type: Plain text
-#: docs/posts/boar.md docs/posts/first-seven.md docs/posts/halfling.md
-#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
-#: docs/posts/rust-dragon.md docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/first-seven.md docs/posts/gold-golem.md
+#: docs/posts/halfling.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md docs/posts/rust-dragon.md docs/posts/troll.md
 #, no-wrap
 msgid "<!--more-->\n"
 msgstr ""
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
-#: docs/posts/rust-dragon.md
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rust-dragon.md
 #, no-wrap
 msgid "The Process"
 msgstr ""
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
-#: docs/posts/rust-dragon.md
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rust-dragon.md
 #, no-wrap
 msgid "Conclusion"
 msgstr ""
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/halfling.md docs/posts/mummy.md docs/posts/peasant.md
-#: docs/posts/rogue.md
+#: docs/posts/gold-golem.md docs/posts/halfling.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rogue.md
 #, no-wrap
 msgid "Metallics"
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/gold-golem.md docs/posts/mummy.md docs/posts/rust-dragon.md
+#, no-wrap
+msgid "The Plan"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/gold-golem.md docs/posts/mummy.md docs/posts/rust-dragon.md
+msgid "Key learnings:"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: date
@@ -147,12 +158,6 @@ msgid ""
 "lighting setup.  It will only get better."
 msgstr ""
 
-#. type: Title ###
-#: docs/posts/mummy.md docs/posts/rust-dragon.md
-#, no-wrap
-msgid "The Plan"
-msgstr ""
-
 #. type: Plain text
 #: docs/posts/mummy.md
 msgid "As usual, I start with zenithal priming:"
@@ -235,11 +240,6 @@ msgstr ""
 #. type: Bullet: ' - '
 #: docs/posts/mummy.md
 msgid "Pure gold metallic for remaining metallic areas"
-msgstr ""
-
-#. type: Plain text
-#: docs/posts/mummy.md docs/posts/rust-dragon.md
-msgid "Key learnings:"
 msgstr ""
 
 #. type: Bullet: ' - '

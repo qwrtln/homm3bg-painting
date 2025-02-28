@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: homm 3bg-painting\n"
-"POT-Creation-Date: 2025-02-28 11:27+0100\n"
+"POT-Creation-Date: 2025-02-28 15:29+0100\n"
 "PO-Revision-Date: 2025-02-05 14:00+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,9 +17,9 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/boar.md docs/posts/halfling.md docs/posts/mummy.md
-#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/rust-dragon.md
-#: docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/halfling.md
+#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/rust-dragon.md docs/posts/troll.md
 #, no-wrap
 msgid "Neutrals"
 msgstr "Нейтральные"
@@ -32,33 +32,44 @@ msgid "Dry-brush"
 msgstr ""
 
 #. type: Plain text
-#: docs/posts/boar.md docs/posts/first-seven.md docs/posts/halfling.md
-#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
-#: docs/posts/rust-dragon.md docs/posts/troll.md
+#: docs/posts/boar.md docs/posts/first-seven.md docs/posts/gold-golem.md
+#: docs/posts/halfling.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md docs/posts/rust-dragon.md docs/posts/troll.md
 #, no-wrap
 msgid "<!--more-->\n"
 msgstr ""
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
-#: docs/posts/rust-dragon.md
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rust-dragon.md
 #, no-wrap
 msgid "The Process"
 msgstr "Процесс"
 
 #. type: Title ###
-#: docs/posts/boar.md docs/posts/mummy.md docs/posts/peasant.md
-#: docs/posts/rust-dragon.md
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rust-dragon.md
 #, no-wrap
 msgid "Conclusion"
 msgstr "Вывод"
 
 #. type: Yaml Front Matter Array Element: tags
-#: docs/posts/halfling.md docs/posts/mummy.md docs/posts/peasant.md
-#: docs/posts/rogue.md
+#: docs/posts/gold-golem.md docs/posts/halfling.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rogue.md
 #, no-wrap
 msgid "Metallics"
 msgstr ""
+
+#. type: Title ###
+#: docs/posts/gold-golem.md docs/posts/mummy.md docs/posts/rust-dragon.md
+#, no-wrap
+msgid "The Plan"
+msgstr "План"
+
+#. type: Plain text
+#: docs/posts/gold-golem.md docs/posts/mummy.md docs/posts/rust-dragon.md
+msgid "Key learnings:"
+msgstr "Ключевые выводы:"
 
 #. type: Yaml Front Matter Hash Value: date
 #: docs/posts/mummy.md
@@ -146,12 +157,6 @@ msgstr "Посмотрите Мумии на [Вики](https://homm3bg.wiki/uni
 msgid "The lighting in these miniature photos has a yellow tint due to experimental lighting setup.  It will only get better."
 msgstr "Освещение на этих фотографиях имеет желтоватый оттенок из-за экспериментальной настройки света. Со временем будет лучше."
 
-#. type: Title ###
-#: docs/posts/mummy.md docs/posts/rust-dragon.md
-#, no-wrap
-msgid "The Plan"
-msgstr "План"
-
 #. type: Plain text
 #: docs/posts/mummy.md
 msgid "As usual, I start with zenithal priming:"
@@ -237,11 +242,6 @@ msgstr "Нанёс тонкий слой золотого металлика п�
 #: docs/posts/mummy.md
 msgid "Pure gold metallic for remaining metallic areas"
 msgstr "Чистый золотой металлик для остальных металлических участков"
-
-#. type: Plain text
-#: docs/posts/mummy.md docs/posts/rust-dragon.md
-msgid "Key learnings:"
-msgstr "Ключевые выводы:"
 
 #. type: Bullet: ' - '
 #: docs/posts/mummy.md
