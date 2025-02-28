@@ -58,3 +58,10 @@ article.md-post {
 .md-post--excerpt .md-button {
   margin-top: 0.5rem;
 }
+
+.loading-indicator {
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+}
