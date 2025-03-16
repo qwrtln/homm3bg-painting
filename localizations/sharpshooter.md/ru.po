@@ -1,0 +1,200 @@
+# Russian translations for homm package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the homm package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: homm 3bg-painting\n"
+"POT-Creation-Date: 2025-03-16 13:07+0100\n"
+"PO-Revision-Date: 2025-03-16 12:59+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/halfling.md
+#: docs/posts/mummy.md docs/posts/peasant.md docs/posts/rogue.md
+#: docs/posts/rust-dragon.md docs/posts/sharpshooter.md docs/posts/troll.md
+#, no-wrap
+msgid "Neutrals"
+msgstr "Нейтральные"
+
+#. type: Plain text
+#: docs/posts/boar.md docs/posts/first-seven.md docs/posts/gold-golem.md
+#: docs/posts/halfling.md docs/posts/mummy.md docs/posts/peasant.md
+#: docs/posts/rogue.md docs/posts/rust-dragon.md docs/posts/sharpshooter.md
+#: docs/posts/troll.md
+#, no-wrap
+msgid "<!--more-->\n"
+msgstr ""
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rust-dragon.md docs/posts/sharpshooter.md
+#, no-wrap
+msgid "The Process"
+msgstr "Процесс"
+
+#. type: Title ###
+#: docs/posts/boar.md docs/posts/gold-golem.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rust-dragon.md docs/posts/sharpshooter.md
+#, no-wrap
+msgid "Conclusion"
+msgstr "Вывод"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/gold-golem.md docs/posts/halfling.md docs/posts/mummy.md
+#: docs/posts/peasant.md docs/posts/rogue.md docs/posts/sharpshooter.md
+#, no-wrap
+msgid "Metallics"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/gold-golem.md docs/posts/mummy.md docs/posts/rust-dragon.md
+#: docs/posts/sharpshooter.md
+msgid "Key learnings:"
+msgstr "Ключевые выводы:"
+
+#. type: Yaml Front Matter Array Element: tags
+#: docs/posts/mummy.md docs/posts/sharpshooter.md
+#, no-wrap
+msgid "Silver"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: date
+#: docs/posts/sharpshooter.md
+#, no-wrap
+msgid "2025-03-16"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: docs/posts/sharpshooter.md
+#, no-wrap
+msgid "Ready to serve in the Forest Guard."
+msgstr "Готов служить в Лесной Страже."
+
+#. type: Yaml Front Matter Hash Value: image
+#: docs/posts/sharpshooter.md
+#, no-wrap
+msgid "https://paint-h3.qwrtln.nl/assets/images/sharpshooter/sharpshooter-front.webp"
+msgstr "https://ru.paint-h3.qwrtln.nl/assets/images/sharpshooter/sharpshooter-front.webp"
+
+#. type: Title #
+#: docs/posts/sharpshooter.md
+#, no-wrap
+msgid "Sharpshooter"
+msgstr "Снайпер"
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+#, no-wrap
+msgid "<small>Read in another language: [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/03/strzelec/) [:ru:](https://ru.paint-h3.qwrtln.nl/posts/2025/03/снайпер/)</small>\n"
+msgstr "<small>Читайте на другом языке: [:gb:](https://paint-h3.qwrtln.nl/posts/2025/03/sharpshooter/) [:pl:](https://pl.paint-h3.qwrtln.nl/posts/2025/03/strzelec/)</small>\n"
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "A flamboyant cloak is always fun to paint."
+msgstr "Роскошную накидку всегда весело красить."
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "![front](../assets/images/sharpshooter/sharpshooter-front.webp)  ![back](../assets/images/sharpshooter/sharpshooter-back.webp)"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+#, no-wrap
+msgid ""
+"<div style=\"display: flex; min-width: 100%; align-items: center\">\n"
+"  <div style=\"width: 50%; padding-top: 20px\">\n"
+"    <img src=\"/assets/images/sharpshooter/sharpshooter-transparent.webp\" style=\"width: 100%; display: block\" />\n"
+"  </div>\n"
+"  <div style=\"width: 50%; position: relative;\">\n"
+"    <img src=\"/assets/images/sharpshooter/card.webp\" style=\"width: 100%; display: block\"/>\n"
+"    <a href=\"https://homm3bg.wiki/units/sharpshooters\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; display: block;\"></a>\n"
+"  </div>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+#, no-wrap
+msgid ""
+"<details><summary>Click to see the unboxing video</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/sharpshooter.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+msgstr ""
+"<details><summary>Нажмите, чтобы посмотреть видео с распаковки</summary>\n"
+"  <video width=\"1280\" height=\"720\" controls preload=\"none\">\n"
+"    <source src=\"/assets/videos/sharpshooter.webm\" type=\"video/webm\">\n"
+"  </video>\n"
+"</details>\n"
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "I need to row back on my previous statements regarding the limited helpfulness of YouTube tutorials.  [Vince Venturella's guide to highlighting](https://youtu.be/W8uCKcF3aUc) was incredibly helpful.  Key conclusion: we're painting light, not actual colors."
+msgstr "Мне нужно отказаться от своих прежних утверждений о бесполезности туториалов с YouTube. [Руководство Винса Вентуреллы по хайлайтам](https://youtu.be/W8uCKcF3aUc) невероятно полезно. Ключевой вывод: мы рисуем свет, а не реальные цвета."
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "Let's start with a tip on motivation: it's a lot harder to procrastinate when you paint with friends."
+msgstr "Начнём с совета по мотивации: гораздо сложнее откладывать на потом, когда красишь вместе с друзьями."
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "![base thin](../assets/images/sharpshooter/01.webp)  /// caption A makeshift painting workshop for two on a kitchen table.  ///"
+msgstr ""
+"![base thin](../assets/images/sharpshooter/01.webp)\n"
+"/// caption\n"
+"Импровизированная мастерская для двоих на кухонном столе.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "To progress quickly, first paint big surfaces with a big brush.  The cloak and the bow are obvious choices (flat brown and flat green).  The rest is gun metal for chain mail, and black + purple for leather clothes.  I wonder if actual medieval sharpshooters dressed so stylishly."
+msgstr "Чтобы быстро продвигаться, сначала покрась большие поверхности большой кистью. Плащ и лук — очевидный выбор (плоский коричневый и плоский зеленый). Остальное — ган-метал для кольчуги и черный + фиолетовый для кожаной одежды. Интересно, одевались ли настоящие средневековые снайперы так стильно."
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "![base thin](../assets/images/sharpshooter/02.webp)  /// caption Those small details left to paint are quite time-consuming.  ///"
+msgstr ""
+"![base thin](../assets/images/sharpshooter/02.webp)\n"
+"/// caption\n"
+"Эти мелкие детали, оставшиеся для покраски, довольно трудоемки.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "![base thin](../assets/images/sharpshooter/03.webp)  /// caption Base layers done. See that cup in the background? It's golden now, ha-ha.  ///"
+msgstr ""
+"![base thin](../assets/images/sharpshooter/03.webp)\n"
+"/// caption\n"
+"Базовые слои готовы. Видишь ту чашку на заднем плане? Теперь она золотая, ха-ха.\n"
+"///"
+
+#. type: Plain text
+#: docs/posts/sharpshooter.md
+msgid "With base layers done, I progressed to highlighting using orange on brown, yellow on green, purple on black, and steel on gun metal.  This time, I used wash sparingly: only on the base and in the recesses of the bow (which in reality would be holes).  Also, don't forget to dry-brush your rocks.  This technique is so awesome it should be illegal."
+msgstr "После нанесения базовых слоёв, я перешёл к хайлайтам, используя оранжевый по коричневому, жёлтый по зелёному, фиолетовый по чёрному и серебряный по ган металу. В этот раз я экономно использовал wash: только на основании и в углублениях лука (которые в реальности были бы отверстиями). Стоит помнить также о драй браше на камнях. Эта техника настолько потрясающая, что должна быть незаконной."
+
+#. type: Bullet: ' - '
+#: docs/posts/sharpshooter.md
+msgid "Watch [Vince's video](https://youtu.be/W8uCKcF3aUc), if you haven't already. No, but really. He's a top-tier mini painter."
+msgstr "Посмотри [видео Винса](https://youtu.be/W8uCKcF3aUc), если ещё не видел. Действительно стоит. Это художник миниатюр высочайшего класса."
+
+#. type: Bullet: ' - '
+#: docs/posts/sharpshooter.md
+msgid "It actually helps to put your mini under a strong beam of light to see where highlights and shadows should be."
+msgstr "Размещение миниатюры под сильным лучом света очень полезно. Можно увидеть, где должны располагаться хайлайты и тени."
+
+#. type: Bullet: ' - '
+#: docs/posts/sharpshooter.md
+msgid "Do your friend who hasn't painted in a while a favor, and invite them over for a painting session."
+msgstr "Сделай одолжение своему другу, который давно не рисовал, и пригласи его на совместный сеанс покраски."
