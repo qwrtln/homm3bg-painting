@@ -33,11 +33,6 @@ jobs:
         run: |
           sed -i 's/pl ru/${{ matrix.language }}/' po4a.cfg
 
-      - name: See permissions
-        run: |
-          ls -l overrides/partials/ || true
-          ls -l overrides/partials//${{ matrix.language }} || true
-
       - name: Generate ${{ matrix.language }} translations
         uses: qwrtln/po4a-action@main
         with:
@@ -48,15 +43,12 @@ jobs:
       - name: Replace files with localized ones
         run: |
           for file in $(find docs/ -name "*${{ matrix.language }}.md"); do
-            ls -l $file
             echo "Moving file: $file -> ${file::-5}md"
             mv "$file" "${file::-5}md"
           done
 
       - name: Localize comments
         run: |
-          ls -l overrides/partials/
-          ls -l overrides/partials//${{ matrix.language }}
           mv overrides/partials/${{ matrix.language }}/comments.html overrides/partials/comments.html
           rm -rf overrides/partials/pl overrides/partials/ru
 
