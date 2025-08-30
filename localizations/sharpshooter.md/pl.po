@@ -191,7 +191,7 @@ msgstr ""
 #. type: Plain text
 #: docs/posts/sharpshooter.md
 msgid "With base layers done, I progressed to highlighting using orange on brown, yellow on green, purple on black, and steel on gun metal.  This time, I used wash sparingly: only on the base and in the recesses of the bow (which in reality would be holes).  Also, don't forget to dry-brush your rocks.  This technique is so awesome it should be illegal."
-msgstr "Położywszy warstwy bazowe, przeszedłem do rozjaśnień używając pomarańczowego na brązowym, żółtego na zielonym, fioletowego na czarnym i srebrnego na gun metalu. Tym razem oszczędnie użyłem washa: tylko na podstawce i w zagłębieniach łuku (które w rzeczywistości byłyby otworami). Należy pamiętać też o dry-brushu na kamieniach. Ta technika jest tak świetna, że powinna jej zakazać."
+msgstr "Położywszy warstwy bazowe, przeszedłem do rozjaśnień używając pomarańczowego na brązowym, żółtego na zielonym, fioletowego na czarnym i srebrnego na gun metalu. Tym razem oszczędnie użyłem washa: tylko na podstawce i w zagłębieniach łuku (które w rzeczywistości byłyby otworami). Należy pamiętać też o dry-brushu na kamieniach. Ta technika jest tak świetna, że powinni jej zakazać."
 
 #. type: Bullet: ' - '
 #: docs/posts/sharpshooter.md

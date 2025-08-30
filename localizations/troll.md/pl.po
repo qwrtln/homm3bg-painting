@@ -82,7 +82,7 @@ msgstr ""
 #. type: Plain text
 #: docs/posts/troll.md
 msgid "Green skin is supposedly easier to paint than human skin.  Well, that crusty texture was not as straightforward (it involved some wonky dry-brushing).  Nevertheless, those yellow-tinted highlights turned out really well.  This was also my first attempt at painting facial details like eyeballs and teeth.  I'm really glad it worked out on the first try."
-msgstr "Podobno zieloną skórę łatwiej jest namalować niż ludzką. No cóż, bąble na skórze okazały się nie takie łatwe (wykonane chwiejnym *dry-brushing*iem). Niemniej jednak żółtawe rozjaśnienia wyszły przyzwoicie. To także moje pierwsze podejście do malowania detali twarzy, takich jak źrenice czy zęby. Cieszy mnie, że udały się przy pierewszym podejściu."
+msgstr "Podobno zieloną skórę łatwiej jest namalować niż ludzką. No cóż, bąble na skórze okazały się nie takie łatwe (wykonane chwiejnym *dry-brushing*iem). Niemniej jednak żółtawe rozjaśnienia wyszły przyzwoicie. To także moje pierwsze podejście do malowania detali twarzy, takich jak źrenice czy zęby. Cieszy mnie, że udały się przy pierwszym podejściu."
 
 #. type: Plain text
 #: docs/posts/troll.md

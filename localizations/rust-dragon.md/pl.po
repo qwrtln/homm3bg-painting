@@ -154,7 +154,7 @@ msgstr "Zobacz Rdzawe Smoki na [Wiki](https://homm3bg.wiki/pl/units/rust_dragons
 #. type: Plain text
 #: docs/posts/rust-dragon.md
 msgid "This miniature is significantly larger than most others, so it requires a customized approach.  First, I'll cover the large areas of the same color using a cat tongue brush, and then I'll move on to the details."
-msgstr "Ta figurka jest znacznie większa niż większość pozostałych, więc wymaga zindywidualizowanego podejścia. Najpierw pokryję duże obszary tego samego koloru używając pędzla typu 'koci jęzk', a następnie przejdę do szczegółów."
+msgstr "Ta figurka jest znacznie większa niż większość pozostałych, więc wymaga zindywidualizowanego podejścia. Najpierw pokryję duże obszary tego samego koloru używając pędzla typu 'koci język', a następnie przejdę do szczegółów."
 
 #. type: Plain text
 #: docs/posts/rust-dragon.md
