@@ -1,0 +1,112 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Painting of Might and Magic III",
+    "home_page_url": "https://paint-h3.qwrtln.nl/",
+    "feed_url": "https://paint-h3.qwrtln.nl/feed_json_updated.json",
+    "description": "Painting minis of Heroes of Might and Magic III: The Board Game",
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2024/11/troll/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2024/11/troll/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Troll",
+            "content_html": "Second painted Heroes unit.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/troll_front.jpg",
+            "date_modified": "2025-08-30T13:05:03.817493+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2025/03/sharpshooter/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2025/03/sharpshooter/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Sharpshooter",
+            "content_html": "Ready to serve in the Forest Guard.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/sharpshooter/sharpshooter-front.webp",
+            "date_modified": "2025-08-30T13:05:03.751405+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2025/02/rust-dragon/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2025/02/rust-dragon/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Rust Dragon",
+            "content_html": "The second mightiest creature in the game",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/rust-dragon/processed/1.webp",
+            "date_modified": "2025-08-30T13:05:03.680749+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2024/11/rogue/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2024/11/rogue/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Rogue",
+            "content_html": "Starting a new hobby.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg",
+            "date_modified": "2025-08-30T13:05:03.604256+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2024/11/peasant/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2024/11/peasant/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Peasant",
+            "content_html": "Becoming Pieter Bruegel for one afternoon.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/peasant_front.webp",
+            "date_modified": "2025-08-30T13:05:03.544973+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2025/02/mummy/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2025/02/mummy/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Mummy",
+            "content_html": "Ever felt like painting your own rendition of Iron Maiden's Eddie?",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/mummy-front.webp",
+            "date_modified": "2025-08-30T13:05:03.473337+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2025/02/halfling/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2025/02/halfling/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Halfling",
+            "content_html": "The diminutive Frodo no one wants to paint.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/halfling/halfling.webp",
+            "date_modified": "2025-08-30T13:05:03.393943+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2025/02/gold-golem/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2025/02/gold-golem/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Gold Golem",
+            "content_html": "A surprisingly fun Pharaoh to paint.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/gold-golem/gold-golem.webp",
+            "date_modified": "2025-08-30T13:05:03.312507+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2025/02/first-seven-minis/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2025/02/first-seven-minis/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "First Seven Minis",
+            "content_html": "Lessons learned from the begining of the adventure.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/first-seven.webp",
+            "date_modified": "2025-08-30T13:05:03.232609+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://paint-h3.qwrtln.nl/posts/2025/02/boar/",
+            "url": "https://paint-h3.qwrtln.nl/posts/2025/02/boar/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "Boar",
+            "content_html": "First mini with a large 5 cm base.",
+            "image": "https://paint-h3.qwrtln.nl/assets/images/boar-1.webp",
+            "date_modified": "2025-08-30T13:05:02.972834+00:00",
+            "authors": [],
+            "tags": null
+        }
+    ]
+}
